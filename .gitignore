@@ -1,0 +1,24 @@
+_site/
+.idea/
+.jekyll-cache/
+.jekyll-metadata
+.ruby-version
+.sass-cache/
+.vendor/
+Gemfile.lock
+
+# Numerous always-ignore extensions
+.DS_Store
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.tar
+*.tgz
+*.vi
+._*
+*~
