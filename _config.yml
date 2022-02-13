@@ -1,0 +1,86 @@
+#
+# Site specific:
+#
+
+# Where are we?
+url: "https://munged.org"
+baseurl: ""
+
+# Who are we?
+author: wook
+
+#
+# Plugin specific:
+#
+
+# SEO tags stuff
+title: Munged.Org
+tagline: Where Wookie waxes loquatious, because he can.
+description: >-
+  Web site for Wookie, which is mostly a blog
+  and assorted pages.
+
+# Paginate:
+pagination:
+  per_page: 12
+  trail:
+    before: 3
+    after: 3
+  enabled: true
+  debug: false
+  sort_reverse: true
+
+#
+# Theme (such as it is) specific:
+#
+
+# include hidden skip-nav links
+skip_nav: true
+
+# should index files include page excepts and/or page content
+index_excerpts: true
+index_contents: true
+
+#
+# Jekyll config
+#
+
+# Formatting
+date_format: "%b %-d, %Y"
+
+# Just so this is available:
+excerpt_separator: <!--more-->
+
+# Some defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: "wook"
+      comments: false
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      comments: false
+
+# Jekyll plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-archives
+
+# Do not track these directories
+# They are not excluded by default
+# They will never have content in them
+exclude:
+  - .idea/
+  - .vendor/

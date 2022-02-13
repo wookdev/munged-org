@@ -13,5 +13,26 @@ Jekyll version 4.2.1
 No theme.  Wookie is building this monster by himself.  However, stealing a lot
 of CSS and concepts from the Jekyll default theme [Minima]
 
+## Included Plugins and such:
+
+- [jekyll-archives]
+- [jekyll-redirectFrom]
+- [jekyll-gist]
+
+## To Use...
+
+### jekyll-gist:
+
+```
+{% gist c08ee0f2726fd0e3909d %}
+{% gist c08ee0f2726fd0e3909d test.md %}
+```
+
+
+
+
 [Jekyll]: https://jekyllrb.com
 [Minima]: https://github.com/jekyll/minima
+[jekyll-redirectFrom]: https://github.com/jekyll/jekyll-redirect-from
+[jekyll-archives]: https://github.com/jekyll/jekyll-archives
+[jekyll-gist]: https://github.com/jekyll/jekyll-gist

@@ -1,0 +1,30 @@
+---
+layout: html
+---
+<div class="home">
+
+    {%- if content -%}
+    <section>
+        <article>
+            <div class="post-content e-content" itemprop="articleBody">
+                {{ content }}
+            </div>
+        </article>
+    </section>
+    {%- endif -%}
+
+    <section>
+        {%- if content -%}
+            <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+        {%- endif -%}
+
+        <div class="post-list" id="main-content">
+            {%- for article in site.posts -%}
+                {%- include article.html -%}
+            {%- endfor -%}
+        </div>
+
+        {%- include pagination-links.html -%}
+    </section>
+
+</div>
