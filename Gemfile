@@ -11,5 +11,5 @@ gem "jekyll-redirect-from"
 gem "jekyll-archives"
 gem 'jekyll-gist'
 
-# Not official Jekyll plugins:
-#gem 'jekyll-paginate-v2', '~> 3.0'
+# Not Official Jekyll Plugins
+gem 'jekyll-paginate-v2'

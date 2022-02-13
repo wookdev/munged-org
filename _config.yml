@@ -22,13 +22,11 @@ description: >-
 
 # Paginate:
 pagination:
-  per_page: 12
-  trail:
-    before: 3
-    after: 3
   enabled: true
   debug: false
+  per_page: 12
   sort_reverse: true
+
 
 #
 # Theme (such as it is) specific:
@@ -77,6 +75,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-archives
+  - jekyll-paginate-v2
 
 # Do not track these directories
 # They are not excluded by default

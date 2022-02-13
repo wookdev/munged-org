@@ -18,6 +18,11 @@ of CSS and concepts from the Jekyll default theme [Minima]
 - [jekyll-archives]
 - [jekyll-redirectFrom]
 - [jekyll-gist]
+- [jekyll-paginate-v2]
+
+Also:
+
+- [timble/jekyll-paginate]
 
 ## To Use...
 
@@ -36,3 +41,5 @@ of CSS and concepts from the Jekyll default theme [Minima]
 [jekyll-redirectFrom]: https://github.com/jekyll/jekyll-redirect-from
 [jekyll-archives]: https://github.com/jekyll/jekyll-archives
 [jekyll-gist]: https://github.com/jekyll/jekyll-gist
+[jekyll-paginate-v2]: https://github.com/sverrirs/jekyll-paginate-v2
+[timble/jekyll-paginate]: https://github.com/timble/jekyll-pagination
