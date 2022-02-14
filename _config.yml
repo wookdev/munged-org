@@ -51,6 +51,12 @@ date_format: "%b %-d, %Y"
 # Just so this is available:
 excerpt_separator: <!--more-->
 
+# Try out commonmark
+markdown: CommonMark
+commonmark:
+  options: [ "SMART", "FOOTNOTES" ]
+  extensions: [ "strikethrough", "table" ]
+
 # Some defaults
 defaults:
   - scope:
@@ -78,6 +84,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-archives
   - jekyll-paginate-v2
+  - jekyll-commonmark
 
 # Do not track these directories
 # They are not excluded by default

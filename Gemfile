@@ -10,6 +10,7 @@ gem "jekyll-seo-tag", "~> 2.1"
 gem "jekyll-redirect-from"
 gem "jekyll-archives"
 gem 'jekyll-gist'
+gem 'jekyll-commonmark'
 
 # Not Official Jekyll Plugins
 gem 'jekyll-paginate-v2'
