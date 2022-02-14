@@ -1,0 +1,9 @@
+{
+  "origins" : [
+    "https://munged.org",
+    "https://www.munged.org"
+  ],
+  "originsRegex" : [
+    "^https:\\/\\/[0-9a-f]+\\.munged-org\\.pages\\.dev"
+  ]
+}

@@ -27,6 +27,8 @@ pagination:
   per_page: 12
   sort_reverse: true
 
+# Giscus comments:
+comments: true
 
 #
 # Theme (such as it is) specific:
