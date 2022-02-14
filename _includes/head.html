@@ -5,4 +5,7 @@
     {%- seo -%}
     <link rel="stylesheet" href="{{ "/css/site.css" | relative_url }}">
     {%- feed_meta -%}
+    {%- if jekyll.environment == "production" -%}
+    <base href="{{ site.url }}" target="_self">
+    {%- endif -%}
 </head>
