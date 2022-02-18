@@ -1,18 +1,11 @@
 ---
 layout: html
 ---
-<section>
-    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-        {%- include article-header.html -%}
-        <div class="post-content e-content" itemprop="articleBody" id="main-content">
-            {{ content }}
-        </div>
-
-        <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-
-    </article>
-
-    {%- include giscus.html -%}
-
-</section>
+<article>
+    <header>
+        <h1>{{ post.title }}</h1>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+</article>
