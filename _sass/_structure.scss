@@ -2,6 +2,10 @@ html {
   font-size: 100%;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: $font-family-sans;
   margin: 0;
@@ -9,14 +13,12 @@ body {
   color: $text-color;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 h1 { font-size: 2rem; }
 h2 { font-size: 1.75rem; }
 h3 { font-size: 1.5rem; }
 h4 { font-size: 1.25rem; }
+h5 { font-size: 1.25rem; }
+h6 { font-size: 1.25rem; }
 
 header h1 {
   font-size: 3rem;
@@ -24,8 +26,25 @@ header h1 {
 }
 
 .site-banner {
+  line-height: 5rem;
   width: 100%;
+  max-width: 900px;
+  margin: auto;
+}
+
+.site-title {
+  font-size: $font-size-site-title;
   float: left;
+}
+
+nav {
+  float: right;
+}
+
+.menu-item {
+  padding: 0 0.5rem;
+  vertical-align: middle;
+  display: inline;
 }
 
 .column {
@@ -58,7 +77,14 @@ pre, code {
   border-radius: 0.5rem;
 }
 
-div.site-title {
-  font-size: $font-size-site-title;
-  float: left;
+.row, header, {
+  &:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+}
+
+.footnotes {
+  border-top: thin solid $border-color-01;
 }

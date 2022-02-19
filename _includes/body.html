@@ -4,7 +4,17 @@
 
 <header class="site-banner">
     <div class="site-title"><a href="/">{{ site.title }}</a></div>
+    <nav>
+        {% for item in site.pages | where: "nav" %}
+        <div class="menu-item">
+            {%- if item.nav -%}
+            <a href="{{item.url | relative_url }}">{{item.title}}</a>
+            {%- endif -%}
+        </div>
+        {%- endfor -%}
+    </nav>
 </header>
+
 <main class="column">
     {{ content }}
 </main>
