@@ -1,12 +1,12 @@
 <body>
 
-    {%- include skip-to-content.html -%}
+{%- include skip-to-content.html -%}
 
-    <header>
-
-    </header>
-    <main>
-            {{ content }}
-    </main>
+<header class="site-banner">
+    <div class="site-title"><a href="/">{{ site.title }}</a></div>
+</header>
+<main class="column">
+    {{ content }}
+</main>
 
 </body>
