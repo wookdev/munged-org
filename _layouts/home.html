@@ -1,14 +1,14 @@
 ---
 layout: html
 ---
-<div class="home">
-
-    <div class="post-list" id="main-content">
-        {%- for article in paginator.posts -%}
-        {%- include article.html -%}
-        {%- endfor -%}
+{%- for post in paginator.posts -%}
+<article>
+    <header>
+        <h1><a href="{{ post.url }}"> {{ post.title }}</a></h1>
+        <p>Posted by: {{ site.author }} on {{ post.date }}</p>
+    </header>
+    <div>
+        {{ post.content }}
     </div>
-
-    {%- include pagination.html -%}
-
-</div>
+</article>
+{%- endfor -%}

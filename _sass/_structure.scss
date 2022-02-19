@@ -1,0 +1,64 @@
+html {
+  font-size: 100%;
+}
+
+body {
+  font-family: $font-family-sans;
+  margin: 0;
+  background-color: $background-color;
+  color: $text-color;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+
+header h1 {
+  font-size: 3rem;
+  color: $sol-yellow;
+}
+
+.site-banner {
+  width: 100%;
+  float: left;
+}
+
+.column {
+  width: 100%;
+  max-width: $max-column-size;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: $link-base-color;
+}
+
+a:hover, a:active {
+  color: $link-hover-color;
+}
+
+pre, code {
+  font-family: $font-family-mono;
+  font-size: $font-size-mono;
+  overflow-x: auto;
+  overflow-wrap: normal;
+}
+
+.highlighter-rouge {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+div.site-title {
+  font-size: $font-size-site-title;
+  float: left;
+}
