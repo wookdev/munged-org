@@ -30,6 +30,10 @@ pagination:
 # Giscus comments:
 comments: true
 
+# Target Blank:
+target-blank:
+  add_css_classes: external
+
 #
 # Theme (such as it is) specific:
 #
@@ -85,6 +89,7 @@ plugins:
   - jekyll-archives
   - jekyll-paginate-v2
   - jekyll-commonmark
+  - jekyll-target-blank
 
 # Do not track these directories
 # They are not excluded by default
