@@ -12,3 +12,27 @@ layout: html
     </div>
 </article>
 {%- endfor -%}
+
+{% if paginator.total_pages > 1 %}
+<div class="column page-trail">
+    <ul>
+        {% if paginator.previous_page %}
+        <li class="menu-item">
+            <a href="{{ paginator.previous_page_path }}">Newer</a>
+        </li>
+        {% endif %}
+        {% if paginator.page_trail %}
+        {% for trail in paginator.page_trail %}
+        <li class="menu-item {% if page.url == trail.path %}current-page{% endif %}">
+            <a href="{{ trail.path }}">{{ trail.num }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+        {% if paginator.next_page %}
+        <li class="menu-item">
+            <a href="{{ paginator.next_page_path }}">Older</a>
+        </li>
+        {% endif %}
+    </ul>
+</div>
+{% endif %}

@@ -8,14 +8,14 @@
         {% for item in site.pages | where: "nav" %}
         <div class="menu-item">
             {%- if item.nav -%}
-            <a href="{{item.url | relative_url }}">{{item.title}}</a>
+            <a href="{{ item.url }}">{{item.nav}}</a>
             {%- endif -%}
         </div>
         {%- endfor -%}
     </nav>
 </header>
 
-<main class="column">
+<main class="column" id="main-content">
     {{ content }}
 </main>
 

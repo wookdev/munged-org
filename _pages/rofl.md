@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ROFLMAO
-nav: Humor
+nav: ROFL
 permalink: "/rofl/"
 ---
 ## Rolling On Floor Laughing

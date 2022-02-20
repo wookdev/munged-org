@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Wook's Place Warning, Disclaimer, Rules, and Nya!
+title: Warning, Disclaimer, Rules, and Nya!
 author: wook
 footer: Disclaimers Warnings and The Rules
 permalink: "/diss/"
+nav: Disclaimer
 ---
-## I shouldn't need to say any of this, but there's something wrong with
-way to many people these days, so here we go:
+## I shouldn't need to say any of this, but there's something wrong with way to many people these days, so here we go:
 
 ### Warning:
 

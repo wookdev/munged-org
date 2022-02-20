@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: "/eq-quotes/"
+nav: EQ Quotes
 ---
 # Wook's Screenshot Quote Collection (mostly) All In One Place
 
