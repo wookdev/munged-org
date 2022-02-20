@@ -10,8 +10,8 @@ Jekyll version 4.2.1
 
 ## Theme
 
-No theme.  Wookie is building this monster by himself.  However, stealing a lot
-of CSS and concepts from the Jekyll default theme [Minima]
+No theme.  Wookie is building this monster by himself.  Inspiration taken from
+the [Minima] and [Lanyon] themes.
 
 ## Included Plugins and such:
 
@@ -33,11 +33,21 @@ Also:
 {% gist c08ee0f2726fd0e3909d test.md %}
 ```
 
+## License
+
+The code and content are licensed separately.
+
+The code I've borrowed or created is licensed under the MIT license.
+
+The content, words and images I've created, are licensed:
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 
 
 [Jekyll]: https://jekyllrb.com
 [Minima]: https://github.com/jekyll/minima
+[Lanyon]: https://github.com/poole/lanyon
 [jekyll-redirectFrom]: https://github.com/jekyll/jekyll-redirect-from
 [jekyll-archives]: https://github.com/jekyll/jekyll-archives
 [jekyll-gist]: https://github.com/jekyll/jekyll-gist
