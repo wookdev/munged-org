@@ -19,3 +19,9 @@ This is just a place to type words that show up (sometimes) where everyone in th
 
 I'm a potty-mouth.  I have opinions.  Sometimes, those two things collide in my
 brain and the results show up here.
+
+# Must Read:
+
+If you don't think you should [read this][diss], you are part of the problem.
+
+[diss]: {% link diss.md %} Disclaimer

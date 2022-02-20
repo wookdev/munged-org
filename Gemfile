@@ -14,4 +14,4 @@ gem 'jekyll-commonmark'
 
 # Not Official Jekyll Plugins
 gem 'jekyll-paginate-v2'
-gem 'jekyll-target-blank'
+# gem 'jekyll-target-blank'
