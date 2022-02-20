@@ -62,7 +62,7 @@ which just means it isn't a part of the raid set.  I expected this.  What I
 didn't expect was the computer informing me that the disk in Bay 2 is about
 to fail.
 
-![events](/pics/predicted-failure.png)
+![events](/assets/pics/predicted-failure.png)
 
 I spent a solid two minutes looking at that thinking "No shit, you couldn't
 come up with this **two weeks ago**?  What the hell!"

@@ -11,7 +11,7 @@ My MacPro has an Apple raid card in it, because I hate having 4 separate disk dr
 in a computer.  The raid card makes 4 drives look like one big one.  The card also
 protects when one drive fails.  Which seems to be what happened just now:
 
-![events](/pics/raid-events.png)
+![events](/assets/pics/raid-events.png)
 
 The drive in Bay 2 just vanished while in use.  Because I have raid 5, the computer
 is still functional, and I have access to all my data.  But access will be slow, as
@@ -38,7 +38,7 @@ failure.
 Powering down and powering up the machine brought the drive back.  I made it a
 spare, and the raid card slurped it into the raid set and is now rebuilding.
 
-![rebuild](/pics/raid-rebuild.png)
+![rebuild](/assets/pics/raid-rebuild.png)
 
 I expect that to take a day or two, if I remember correctly from when
 I first set it up 6 years ago.

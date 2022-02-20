@@ -35,4 +35,4 @@ some sort that they can just bend it back for cheap. If it does end up being an
 insurance thing, might be time to get the second set of deer dents taken care of,
 too.
 
-[startbutton]: /pics/startenginestop.jpg "The pointy bits of the 'A' and 'N' have rubbed off."
+[startbutton]: /assets/pics/startenginestop.jpg "The pointy bits of the 'A' and 'N' have rubbed off."

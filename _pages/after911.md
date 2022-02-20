@@ -3,7 +3,6 @@ layout: page
 title: Thoughts a Week After 9/11
 date: 2001-09-19
 datestr: Wednesday, September 19, 2001
-permalink: /imho/after911.html
 author: wook
 ---
 

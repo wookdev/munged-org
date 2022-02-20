@@ -11,7 +11,7 @@ date: 2021-10-19 12:00:00 -0400
 ---
 The new keyboard:
 
- ![Black keyboard with blue alpha keys](/pics/2021-10-19_20-40-44.png "The New Keyboard")
+ ![Black keyboard with blue alpha keys](/assets/pics/2021-10-19_20-40-44.png "The New Keyboard")
 
 I had a [WASD Code keyboard](https://www.wasdkeyboards.com/code-v3-104-key-mechanical-keyboard-zealio-67g.html) on my work computer.  Then one day I poured a glass of water into it.  Despite knowing for sure that water should't hurt a keyboard, I dried it out over time, and plugged it back in.  It worked, but was wonky.  The backlight never worked again.  Sometimes, it got confused and keys wouldn't work or would repeat until it was unplugged.
 

@@ -30,10 +30,6 @@ pagination:
 # Giscus comments:
 comments: true
 
-# Target Blank:
-target-blank:
-  add_css_classes: external
-
 #
 # Theme (such as it is) specific:
 #
@@ -44,6 +40,16 @@ skip_nav: true
 # should index files include page excepts and/or page content
 index_excerpts: true
 index_contents: true
+
+#
+# Contents
+#
+
+collections:
+  pages:
+    output: true
+  saga:
+    output: true
 
 #
 # Jekyll config

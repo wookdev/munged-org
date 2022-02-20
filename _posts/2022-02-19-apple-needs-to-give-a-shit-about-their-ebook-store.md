@@ -13,20 +13,20 @@ What Am I Talking About?  Two things: series, and sorting.
 The Apple Book Store groups books by series they are in, which is very cool. When set
 up correctly, it looks like this:
 
-![](/pics/chronicles-of-amber.png)
+![](/assets/pics/zelazny-chronicles.png)
 
 I use this to see what the next book in a series is when I want to buy it, and then
 to read it.
 
 But take a step back, and the Zelazny section looks like this:
 
-![](/pics/zelazny.png)
+![](/assets/pics/zelazny-list.png)
 
 In my mind, the stories of Merlin of Amber are part of the Chronicles: books 6 thru 10.  Even if you don't agree with that, they are definately a series and should be in a "Merlin of Amber" series under Zelazny.  Not listed separately like that.
 
 And then there's sorting parameters.  Are we using last names of authors?  Are we using first names of authors?  Who the hell knows.  One of my favorite sorting fuckups:
 
-![](/pics/vernor-vincent-vinge.png)
+![](/assets/pics/vernor-vincent-vinge.png)
 
 This list is sorted as:
 
