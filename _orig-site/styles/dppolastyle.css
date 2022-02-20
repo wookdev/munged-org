@@ -1,0 +1,15 @@
+a  { color: #666666; font-size: 12px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+a:hover { color: #000000; font-size: 12px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+a:active { color: #666666; font-size: 12px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+a.ticker { color: #000000; text-decoration:none; font-weight: bold; font-size: 12px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+a.ticker:hover { color: #666666; text-decoration:none; font-weight: bold; font-size: 12px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+a.ticker:active { color: #666666; text-decoration:none; font-weight: bold; font-size: 12px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+
+body  { color: #000000; font-size: 12px; font-family: Lucida Grande, Arial, Geneva, Helvetica}
+td  { color: #000000; font-size: 12px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+.title  { color: #000000; font-size: 24px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+.ingress  { color: #666666; font-size: 14px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+.small { color: #999; font-size: 12px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+.copyright { color: #999; font-size: 10px; font-family: Lucida Grande, Arial, Geneva, Helvetica }
+.filename { font-size: 11px }
+

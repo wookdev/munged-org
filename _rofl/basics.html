@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><!-- #BeginTemplate "/Templates/jokes.dwt" --><!-- DW6 -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>File Transfer Basics</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+<!--
+.words {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; color: #000000}
+.date {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000}
+.title {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 24px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000}
+.footer {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; font-style: normal; line-height: normal; font-weight: normal}
+-->
+</style>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#660066" alink="#FF0000" leftmargin="72" topmargin="72" marginwidth="72" marginheight="72">
+<p class="title"><!-- #BeginEditable "title" -->File Transfer Basics<!-- #EndEditable --></p> 
+<!-- #BeginEditable "words" --> 
+<p class="words">Question on one some corporate newsgroup:</p>
+<hr width="80%" size="1" noshade>
+<p class="words"> Noticed something weird today. Was using FTP to xfer some files 
+  around and noticed that &quot;getting&quot; files resulted in a transfer rate 
+  of about 15kb/sec while &quot;putting&quot; files resulted in a transfer rate 
+  of about 400kb/sec?!?! </p>
+<p class="words">Both sending and receiving nodes were C4's, but one is a server 
+  and one is a WS.</p>
+<p class="words">What gives??</p>
+<hr width="80%" size="1" noshade>
+<p class="words">Answer some 10 minutes later:</p>
+<hr width="80%" size="1" noshade>
+<p class="words">The remote system is downhill from your system, resulting in 
+  a faster rate of transfer when you &quot;put&quot; files, and a lower rate of 
+  transfer when you &quot;get&quot; files (since you have to pull the bits uphill).</p>
+<p class="words">Remember, you should _never_ stack two systems on top of each 
+  other. Bits cannot handle vertical acceleration, and you could actually cause 
+  a bit overflow. That's why you should always back away from a machine that has 
+  an &quot;overflow error&quot;, because, chances are, it's about to explode.</p>
+<p class="words">Jeeze, you're working at a computer company and you don't even 
+  know the basics?</p>
+<!-- #EndEditable --> 
+<hr noshade width="100%" size="1">
+<span class="footer"> Attribution, if any, is included in the text. If this is 
+a copyrighted work, and you are the copyright owner, please contact the webmaster.</span> 
+</body>
+<!-- #EndTemplate --></html>
