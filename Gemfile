@@ -5,8 +5,6 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.2.1"
 
 # Official Jekyll plugins:
-gem "jekyll-feed", "~> 0.12"
-gem "jekyll-seo-tag", "~> 2.1"
 gem "jekyll-redirect-from"
 gem "jekyll-archives"
 gem 'jekyll-gist'

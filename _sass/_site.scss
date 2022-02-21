@@ -1,9 +1,9 @@
-@charset "utf-8";
+@charset "UTF-8";
 
-$max-column-size: 800px;
+/*
+ * We'll use this file for setting theme variables
+ */
 
-$font-family-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-$font-family-mono: ui-monospace, Menlo, Monaco, Consolas, "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", monospace;
-$font-size-mono: 0.9rem;
-
-$font-size-site-title: 3rem;
+:root {
+  --var-name-here: 12;
+}

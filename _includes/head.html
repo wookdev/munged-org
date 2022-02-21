@@ -1,11 +1,32 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ "/assets/css/site.css" | relative_url }}">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <title>
+        {% if page.title == "Home" %}
+        {{ site.title }} &middot; {{ site.tagline }}
+        {% else %}
+        {{ page.title }} &middot; {{ site.title }}
+        {% endif %}
+    </title>
+
+    {% if page.url and site.baseurl %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    {% endif %}
+
     {%- if jekyll.environment == "production" -%}
     <base href="{{ site.url }}" target="_self">
     {%- endif -%}
-    {%- feed_meta -%}
-    {%- seo -%}
+
+    <link rel="stylesheet" href="{{ '/css/site.css' | absolute_url }}">
+
+    {% comment %}
+    Not until I have site-specific icons.
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/public/apple-touch-icon-precomposed.png' | absolute_url }}">
+    <link rel="shortcut icon" href="{{ '/public/favicon.ico' | absolute_url }}">
+    {% endcomment %}
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | absolute_url }}">
+
 </head>
