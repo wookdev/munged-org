@@ -1,32 +1,10 @@
 /*
- *  ___
- * /\_ \
- * \//\ \      __      ___   __  __    ___     ___
- *   \ \ \   /'__`\  /' _ `\/\ \/\ \  / __`\ /' _ `\
- *    \_\ \_/\ \_\.\_/\ \/\ \ \ \_\ \/\ \_\ \/\ \/\ \
- *    /\____\ \__/.\_\ \_\ \_\/`____ \ \____/\ \_\ \_\
- *    \/____/\/__/\/_/\/_/\/_/`/___/> \/___/  \/_/\/_/
- *                               /\___/
- *                               \/__/
- *
+ * A good chunk of this file comes from the Lanyon theme:
  * Designed, built, and released under MIT license by @mdo. Learn more at
  * https://github.com/poole/lanyon.
- */
-
-
-/*
- * Contents
  *
- * Global resets
- * Masthead
- * Sidebar
- * Slide effect
- * Posts and pages
- * Pagination
- * Reverse layout
- * Themes
+ * This file is poole.css and lanyon.css combined, and altered to be a theme.
  */
-
 
 /*
  * Global resets
@@ -34,21 +12,269 @@
  * Update the foundational and global aspects of the page.
  */
 
+/* Box resets */
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 /* Prevent scroll on narrow devices */
 html,
 body {
+  margin: 0;
+  padding: 0;
   overflow-x: hidden;
 }
 
 html {
   font-family: var(--font-family-sans);
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
+@media (min-width: 38em) {
+  html {
+    font-size: 1.375rem;
+  }
+}
+
+body {
+  color: var(--base-color-text-body);
+  background-color: var(--base-color-bg);
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+/* No `:visited` state is required by default (browsers will use `a`) */
+a {
+  color: var(--base-color-text-accent);
+  text-decoration: none;
+}
+a strong {
+  color: inherit;
+}
+/* `:focus` is linked to `:hover` for basic accessibility */
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-family-sans);
   font-weight: 400;
-  color: #313131;
+  color: var(--base-color-text-highlight);
   letter-spacing: -.025rem;
+  margin-bottom: .5rem;
+  line-height: 1.25;
+  text-rendering: optimizeLegibility;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+/* Body text */
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+strong {
+  color: var(--base-color-text-highlight);
+}
+
+
+/* Lists */
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-bottom: .5rem;
+}
+
+/* Misc */
+hr {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #fff;
+}
+
+abbr {
+  font-size: 85%;
+  font-weight: bold;
+  color: var(--base-color-text-body);
+  text-transform: uppercase;
+}
+abbr[title] {
+  cursor: help;
+  border-bottom: 1px dotted var(--base-color-text-highlight);
+}
+
+/* Code */
+code,
+pre {
+  font-family: var(--font-family-mono);
+}
+code {
+  padding: .25em .5em;
+  font-size: 85%;
+  color: var(--base-color-text-highlight);
+  background-color: var(--base-color-bg-highlight);
+  border-radius: 3px;
+}
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  font-size: .8rem;
+  line-height: 1.4;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: var(--base-color-bg-highlight);
+}
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
+}
+
+/* Pygments via Jekyll */
+.highlight {
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+.highlight pre {
+  margin-bottom: 0;
+}
+
+/* Gist via GitHub Pages */
+.gist .gist-file {
+  font-family: var(--font-family-mono) !important;
+}
+.gist .markdown-body {
+  padding: 15px;
+}
+.gist pre {
+  padding: 0;
+  background-color: transparent;
+}
+.gist .gist-file .gist-data {
+  font-size: .8rem !important;
+  line-height: 1.4;
+}
+.gist code {
+  padding: 0;
+  color: inherit;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+/* Quotes */
+blockquote {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: var(--base-color-text-body);
+  border-left: .25rem solid var(--base-color-text-highlight);
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 30em) {
+  blockquote {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+}
+
+/* Tables */
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: .25rem .5rem;
+  border: 1px solid #e5e5e5;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: var(--base-color-text-body);
+}
+
+
+/*
+ * Custom type
+ *
+ * Extend paragraphs with `.lead` for larger introductory text.
+ */
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+
+/*
+ * Messages
+ *
+ * Show alert messages to users. You may add it to single elements like a `<p>`,
+ * or to a parent if there are multiple elements to show.
+ */
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: var(--base-color-text-highlight);
+  background-color: var(--base-color-bg-highlight);
+}
+
+
+/*
+ * Container
+ *
+ * Center the page content.
+ */
+
+.container {
+  max-width: 38rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
 }
 
 
@@ -74,6 +300,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .container {
   max-width: 28rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+
 }
 @media (min-width: 38em) {
   .container {
@@ -102,15 +333,15 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: var(--base-color-text-highlight);
 }
 .masthead-title a {
-  color: #505050;
+  color: var(--base-color-text-highlight);
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: var(--base-color-text-body);
   letter-spacing: 0;
 }
 
@@ -150,8 +381,8 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   font-family: var(--font-family-sans);
   font-size: .875rem; /* 15px */
-  color: rgba(255,255,255,.6);
-  background-color: #202020;
+  color: var(--alt-color-text-body);
+  background-color: var(--alt-color-bg);
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -164,7 +395,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #fff;
+  color: var(--alt-color-text-highlight);
 }
 .sidebar-item {
   padding: 1rem;
@@ -186,7 +417,7 @@ h1, h2, h3, h4, h5, h6 {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  background-color: rgba(255,255,255,.1);
+  background-color: var(--alt-color-bg-highlight);
   border-color: transparent;
 }
 
@@ -217,8 +448,8 @@ a.sidebar-nav-item:focus {
   display: flex;
   align-items: center;
   padding: .25rem .75rem;
-  color: #505050;
-  background-color: #fff;
+  color: var(--alt-color-text-highlight);
+  background-color: var(--alt-color-bg-highlight);
   border-radius: .25rem;
   cursor: pointer;
 }
@@ -234,8 +465,8 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: #fff;
-  background-color: #555;
+  color: var(--alt-color-text-highlight);
+  background-color: var(--alt-color-text-highlight);
 }
 
 .sidebar-toggle:active:before,
@@ -311,7 +542,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: var(--base-color-text-highlight);
 }
 .page-title,
 .post-title {
@@ -323,7 +554,17 @@ a.sidebar-nav-item:focus {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: var(--base-color-text-body);
+}
+
+/* Footnotes */
+.footnotes {
+  padding: 16px;
+  border-top: 1px solid var(--base-color-text-body);
+}
+
+.footnotes li, .footnotes p {
+  font-size: 1rem;
 }
 
 /* Related posts */
@@ -364,7 +605,7 @@ a.sidebar-nav-item:focus {
   margin-left: -1rem;
   margin-right: -1rem;
   font-family: var(--font-family-sans);
-  color: #ccc;
+  color: var(--base-color-text-body);
   text-align: center;
 }
 
@@ -372,7 +613,7 @@ a.sidebar-nav-item:focus {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #eee;
+  border: 1px solid var(--base-color-text-highlight);
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -380,7 +621,7 @@ a.sidebar-nav-item:focus {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #f5f5f5;
+  background-color: var(--base-color-bg-highlight);
 }
 
 @media (min-width: 30em) {
@@ -426,110 +667,6 @@ a.pagination-item:hover {
   -webkit-transform: translateX(-14rem);
       -ms-transform: translateX(-14rem);
           transform: translateX(-14rem);
-}
-
-
-/*
- * Themes
- *
- * Apply custom color schemes by adding the appropriate class to the `body`.
- * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
- */
-
-/* Red */
-.theme-base-08 .sidebar,
-.theme-base-08 .sidebar-toggle:active,
-.theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ac4142;
-}
-.theme-base-08 .container a,
-.theme-base-08 .sidebar-toggle,
-.theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
-}
-
-/* Orange */
-.theme-base-09 .sidebar,
-.theme-base-09 .sidebar-toggle:active,
-.theme-base-09 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #d28445;
-}
-.theme-base-09 .container a,
-.theme-base-09 .sidebar-toggle,
-.theme-base-09 .related-posts li a:hover {
-  color: #d28445;
-}
-
-/* Yellow */
-.theme-base-0a .sidebar,
-.theme-base-0a .sidebar-toggle:active,
-.theme-base-0a #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #f4bf75;
-}
-.theme-base-0a .container a,
-.theme-base-0a .sidebar-toggle,
-.theme-base-0a .related-posts li a:hover {
-  color: #f4bf75;
-}
-
-/* Green */
-.theme-base-0b .sidebar,
-.theme-base-0b .sidebar-toggle:active,
-.theme-base-0b #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #90a959;
-}
-.theme-base-0b .container a,
-.theme-base-0b .sidebar-toggle,
-.theme-base-0b .related-posts li a:hover {
-  color: #90a959;
-}
-
-/* Cyan */
-.theme-base-0c .sidebar,
-.theme-base-0c .sidebar-toggle:active,
-.theme-base-0c #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #75b5aa;
-}
-.theme-base-0c .container a,
-.theme-base-0c .sidebar-toggle,
-.theme-base-0c .related-posts li a:hover {
-  color: #75b5aa;
-}
-
-/* Blue */
-.theme-base-0d .sidebar,
-.theme-base-0d .sidebar-toggle:active,
-.theme-base-0d #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #6a9fb5;
-}
-.theme-base-0d .container a,
-.theme-base-0d .sidebar-toggle,
-.theme-base-0d .related-posts li a:hover {
-  color: #6a9fb5;
-}
-
-/* Magenta */
-.theme-base-0e .sidebar,
-.theme-base-0e .sidebar-toggle:active,
-.theme-base-0e #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #aa759f;
-}
-.theme-base-0e .container a,
-.theme-base-0e .sidebar-toggle,
-.theme-base-0e .related-posts li a:hover {
-  color: #aa759f;
-}
-
-/* Brown */
-.theme-base-0f .sidebar,
-.theme-base-0f .sidebar-toggle:active,
-.theme-base-0f #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #8f5536;
-}
-.theme-base-0f .container a,
-.theme-base-0f .sidebar-toggle,
-.theme-base-0f .related-posts li a:hover {
-  color: #8f5536;
 }
 
 

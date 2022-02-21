@@ -1,3 +1,36 @@
+/*
+ * Solarized theme uses this:
+ */
+$sol-is-dark: true;
+
 @import
     "solarized"
 ;
+
+:root {
+    @if $sol-is-dark {
+        --base-color-bg:                #{$sol-base03};
+        --base-color-bg-highlight:      #{$sol-base02};
+        --base-color-text-body:         #{$sol-base0};
+        --base-color-text-highlight:    #{$sol-base1};
+        --base-color-text-accent:       #{$sol-yellow};
+
+        --alt-color-bg:                 #{$sol-base3};
+        --alt-color-bg-highlight:       #{$sol-base2};
+        --alt-color-text-body:          #{$sol-base00};
+        --alt-color-text-highlight:     #{$sol-base01};
+        --alt-color-text-accent:        #{$sol-blue};
+    } @else {
+        --base-color-bg:                #{$sol-base3};
+        --base-color-bg-highlight:      #{$sol-base2};
+        --base-color-text-body:         #{$sol-base00};
+        --base-color-text-highlight:    #{$sol-base01};
+        --base-color-text-accent:       #{$sol-blue};
+
+        --alt-color-bg:                 #{$sol-base03};
+        --alt-color-bg-highlight:       #{$sol-base02};
+        --alt-color-text-body:          #{$sol-base0};
+        --alt-color-text-highlight:     #{$sol-base1};
+        --alt-color-text-accent:        #{$sol-yellow};
+    }
+}

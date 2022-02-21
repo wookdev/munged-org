@@ -6,7 +6,7 @@ tags: []
 date: 2022-02-19 12:00:00 -0500
 
 ---
-I'm sure there are going be some fan-boi apologists out there that will say "but Apple doesn't put these in themselves."  I say: "fuck you, Apple either cares of it doesn't, and it doesn't look like they do."
+I'm sure there are going be some fan-boi apologists out there that will say "but Apple doesn't put these in themselves."  I say: "fuck that, Apple either cares or it doesn't, and it doesn't look like they do."
 
 What Am I Talking About?  Two things: series, and sorting.
 
