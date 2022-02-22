@@ -18,7 +18,7 @@ nav: Archives
 
             <li>
                 <span class="post-meta">{{ post.date | date: "%B %-d" }}</span>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
             </li>
     {% endfor %}
 
