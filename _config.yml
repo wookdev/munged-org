@@ -92,12 +92,11 @@ defaults:
 
 # Jekyll plugins
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-redirect-from
   - jekyll-archives
-  - jekyll-paginate-v2
   - jekyll-commonmark
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-redirect-from
 #  - jekyll-target-blank
 
 # Do not track these directories
