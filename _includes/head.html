@@ -11,7 +11,7 @@
         {% endif %}
     </title>
 
-    {% if page.url and site.baseurl and jekyll.environment = "production" %}
+    {% if page.url and site.baseurl and jekyll.environment == "production" %}
     <link rel="canonical" href="{{ page.url | absolute_url }}">
 
     {% endif %}
