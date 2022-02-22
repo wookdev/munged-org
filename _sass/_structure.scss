@@ -345,6 +345,7 @@ tbody tr:nth-child(odd) th {
   font-weight: 400;
   color: var(--base-color-text-body);
   letter-spacing: 0;
+  padding-left: 1rem;
 }
 
 @media (max-width: 48em) {
@@ -450,8 +451,8 @@ a.sidebar-nav-item:focus {
   display: flex;
   align-items: center;
   padding: .25rem .75rem;
-  color: var(--alt-color-text-highlight);
-  background-color: var(--alt-color-bg-highlight);
+  color: var(--base-color-text-highlight);
+  background-color: var(--base-color-bg-highlight);
   border-radius: .25rem;
   cursor: pointer;
 }
@@ -467,8 +468,8 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: var(--alt-color-text-highlight);
-  background-color: var(--alt-color-text-highlight);
+  color: var(--base-color-text-highlight);
+  background-color: var(--base-color-text-highlight);
 }
 
 .sidebar-toggle:active:before,
