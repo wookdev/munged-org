@@ -67,7 +67,7 @@ excerpt_separator: <!--more-->
 # Try out commonmark
 markdown: CommonMark
 commonmark:
-  options: [ "SMART", "FOOTNOTES" ]
+  options: [ "SMART", "FOOTNOTES", "UNSAFE" ]
   extensions: [ "strikethrough", "table" ]
 
 # Some defaults
