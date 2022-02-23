@@ -58,6 +58,9 @@ collections:
 # Jekyll config
 #
 
+# Permalinks
+permalink: pretty
+
 # Formatting
 date_format: "%b %-d, %Y"
 
