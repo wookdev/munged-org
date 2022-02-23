@@ -1,12 +1,10 @@
 ---
 layout: post
-author: Wook
-title: Apple Needs to Give a Shit About Their eBook Store
-tags: []
-date: 2022-02-19 12:00:00 -0500
-
+title: Apple Needs to Care About The Book Store
 ---
-I'm sure there are going be some fan-boi apologists out there that will say "but Apple doesn't put these in themselves."  I say: "fuck that, Apple either cares or it doesn't, and it doesn't look like they do."
+I'm sure there are going be some fan-boi apologists out there that will say
+"but Apple doesn't put these in themselves."  I say: Apple either
+cares or it doesn't and it doesn't look like they do.
 
 What Am I Talking About?  Two things: series, and sorting.
 
