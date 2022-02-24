@@ -101,6 +101,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-redirect-from
 #  - jekyll-target-blank
+  - jekyll-compose
 
 # Do not track these directories
 # They are not excluded by default
