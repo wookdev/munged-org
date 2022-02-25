@@ -51,8 +51,6 @@ index_contents: true
 collections:
   pages:
     output: true
-  saga:
-    output: true
 
 #
 # Jekyll config
