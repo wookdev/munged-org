@@ -232,11 +232,12 @@ th {
   padding: .25rem .5rem;
   border: 1px solid #e5e5e5;
 }
+/*  Table row striping is fugly
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: var(--base-color-text-body);
 }
-
+*/
 
 /*
  * Custom type

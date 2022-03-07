@@ -48,9 +48,10 @@ index_contents: true
 # Contents
 #
 
-collections:
-  pages:
-    output: true
+#collections:
+#  rofl:
+#    output: true
+#    permalink: /:collection/:name/
 
 #
 # Jekyll config
