@@ -99,4 +99,4 @@ plugins:
 exclude:
   - .idea/
   - .vendor/
-  - READme.md
+  - README.md

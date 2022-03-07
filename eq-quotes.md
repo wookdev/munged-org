@@ -3,6 +3,7 @@ layout: page
 title: EQ Quotes
 nav: EQ Quotes
 ---
+
 # Wook's Screenshot Quote Collection (mostly) All In One Place
 
 Once upon a time I played EverQuest for Mac, with some really creative people.
@@ -13,13 +14,7 @@ a screenshot.  Every now and then I would go thru them and extract the chat
 boxes with the joke. I had them displayed in my signature on the guild web
 site for a while.  And I collected them here.
 
-I won't apologize for the juvenile humor here.  I've never been accused of
-being a grown-up.
-
 You also have to know the people, and the game.  And you maybe had to be there.
-
-This page has (most of the) funny stuff I've screenshotted. Non-funny stuff
-<a href="other-stuff.html">is on this page</a>.
 
 Enjoy!
 
