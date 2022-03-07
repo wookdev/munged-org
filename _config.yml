@@ -45,15 +45,6 @@ index_excerpts: true
 index_contents: true
 
 #
-# Contents
-#
-
-#collections:
-#  rofl:
-#    output: true
-#    permalink: /:collection/:name/
-
-#
 # Jekyll config
 #
 
