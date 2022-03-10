@@ -25,18 +25,18 @@ year, we have dusted off the archives from 13-OCT-1983 to retrieve
 this reply from DIGITAL's Stanley Rabinowitz to a Software
 Performance Report (SPR). The report, filed against VAX/VMS Version 3.2,
 claimed the LIB$DAY Run-Time Library service assumed incorrectly
-that the year 2000 was a leap year.</p>
+that the year 2000 was a leap year.
 
 Stan's now famous response demonstrates that OpenVMS has been forward
 thinking in terms of the year 2000 long before the current hoopla
-began!</p>
+began!
 
 NOTE: The astute reader may notice a technical typo in the SPR
 response. In the interests of preserving this archival document
 -- and permitting future readers the thrill of the hunt! -- we
-have intentionally left this error unedited.</p>
+have intentionally left this error unedited.
 
-Enjoy!</p>
+Enjoy!
 
 ---
 

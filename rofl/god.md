@@ -10,16 +10,16 @@ in God, I can say:
 
 "Of course I believe in God, there has always been a special place 
 for God in my home and I sometimes feel very close to God. Just knowing that 
-God is there is a source of great comfort to me."</cite> </p>
+God is there is a source of great comfort to me."</cite> 
 
 This is one of the best pieces I've read on alt.atheism in a while (which may 
 tell you what I consider things to have been like lately ;-) This has great 
-possibilities...</p>
+possibilities...
 
 "I once was a great sinner, indulging in strong drink, but one night 
 in my wickedness I found myself kneeling before God, pouring out my repentance; 
 evil spirits were expelled from me, and consumed by God. I prostrated myself 
-before God then, and slept the sleep of the innocent."</p>
+before God then, and slept the sleep of the innocent."
 
 "Truly our society could not function without God. Not only is there 
 a special place in **my** home for God, but in every true American 
@@ -27,10 +27,10 @@ home and place of business as well. I know that even when I travel I can turn
 to God in my time of need. Although our founding fathers did not know God 
 exactly as we do today, they would never envision an America with no God at 
 all. Those who reject God are defiled by their actions and risk spreading 
-their filth to those around them."</p>
+their filth to those around them."
 
 "My thoughts never stray too long away from God. At times when God 
-seems farthest away, that is when then God is foremost in my thoughts."</p>
+seems farthest away, that is when then God is foremost in my thoughts."
 
 I'm sure now that I will be snickering for weeks at the most innocuous of theistic 
-postings...</p>
+postings...

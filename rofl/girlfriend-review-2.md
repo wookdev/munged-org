@@ -8,7 +8,7 @@ From a very technically-oriented contributor....
 Last year a friend of mine upgraded GirlFriend 6.0 to Wife 1.0 
 and found that it's a memory hog leaving very little system resources for other 
 applications. He is only now noticing that Wife 1.0 also is spawning Child-Processes 
-which are further consuming valuable resources.</p>
+which are further consuming valuable resources.
 
 No mention of this particular phenomena was included in the 
 product brochure or the documentation, though other users have informed him 
@@ -19,14 +19,14 @@ such as PokerNight 10.3, BeerBash 2.5, and PubNight 7.0 are no longer able to
 run, crashing the system when selected (even though they always worked fine 
 before). At installation, Wife 1.0 automatically installs undesired Plug-Ins 
 such as Mother-In-Law 55.8 and Brother-In-Law Beta release. As a consequence 
-system performance seems to diminish with each passing day.</p>
+system performance seems to diminish with each passing day.
 
 Some features he'd like to see in the upcoming wife 2.0: A "Don't 
 remind me again" button Minimize button An install shield feature that 
 allows Wife 2.0 to be installed with the option to uninstall at anytime without 
 the loss of cache and other system resources. An option to run the network driver 
 in promiscuous mode which would allow the systems hardware probe feature to 
-have greater use.</p>
+have greater use.
 
 I myself decided to avoid all of the headaches associated with 
 Wife 1.0 by sticking with Girlfriend 2.0. Even here, however, I found many problems. 
@@ -37,7 +37,7 @@ conflicts over shared use of the I/O port. You think they would have fixed such
 a stupid bug by now. To make matters worse, The uninstall program for Girlfriend 
 1.0 doesn't work very well leaving undesirable traces of the application in 
 the system. Another annoying problem -- all versions of Girlfriend continually 
-popup annoying messages about the advantages of upgrading to Wife 1.0 </p>
+popup annoying messages about the advantages of upgrading to Wife 1.0 
 
 ### ****** BUG WARNING ******
 
@@ -51,8 +51,8 @@ insufficient system resources.
 To avoid the above bug, try installing Mistress 1.1 on a different 
 system and never run any file transfer applications such as Laplink 6.0. Also, 
 beware of similar shareware applications that have been known to carry viruses 
-that may affect Wife 1.0. </p>
+that may affect Wife 1.0. 
 
 Another solution would be to run Mistress 1.0 via a UseNet provider 
 under an anonymous name. Here again, beware of the viruses which can accidentally 
-be downloaded from the UseNet.</p>
+be downloaded from the UseNet.

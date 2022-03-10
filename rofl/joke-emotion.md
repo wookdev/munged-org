@@ -4,16 +4,16 @@ title: Emotion Theme Party
 ---
  
 A man decides to have a party and invites lots of people, telling them to bring 
-their friends. On the invitation he puts Theme Party - Come as a Human Emotion.</p>
+their friends. On the invitation he puts Theme Party - Come as a Human Emotion.
 
 On the night of the party, the first guest arrives and he opens the door to 
 see a guy covered in green paint with the letters N and V painted on his chest. 
 
 He says to this guy, "Wow, great outfit, what emotion have you come as?" 
 
-And the guy says, "I'm green with envy."</p>
+And the guy says, "I'm green with envy."
 
-The host replies, "Brilliant, come on in and have a drink."</p>
+The host replies, "Brilliant, come on in and have a drink."
 
 A few minutes later the next guest arrives and the host opens the door to see 
 a woman covered in a pink body stocking with a feather boa wrapped around her 

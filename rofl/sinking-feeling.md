@@ -18,7 +18,7 @@ sauntered over to his terminal to see what was wrong. A strange error message
 of the form (I forget the exact details) "cannot access /foo/bar for userid 
 147" had been issued by msg. My first thought was "Who's userid 147?; 
 the sender of the message, the destination, or what?" So I leant over to 
-another terminal, already logged in, and typed</p>
+another terminal, already logged in, and typed
 
     grep 147 /etc/passwd
 
@@ -62,7 +62,7 @@ I owe a debt of thanks to David Korn for making echo a built-in
 of his shell; needless to say, /bin, together with /bin/echo, had been deleted. 
 What transpired in the next few minutes was that /dev, /etc and /lib had also 
 gone in their entirety; fortunately Neil had interrupted rm while it was somewhere 
-down below /news, and /tmp, /usr and /users were all untouched.</p>
+down below /news, and /tmp, /usr and /users were all untouched.
 
 Meanwhile James had made for our tape cupboard and had retrieved 
 what claimed to be a dump tape of the root filesystem, taken four weeks earlier. 
@@ -73,7 +73,7 @@ recovery across Ethernet of any of this from another VAX? Well, /bin/tar had
 gone, and thoughtfully the Berkeley people had put rcp in /bin in the 4.3 distribution. 
 What's more, none of the Ether stuff wanted to know without /etc/hosts at least. 
 We found a version of cpio in /usr/local, but that was unlikely to do us any 
-good without a tape deck.</p>
+good without a tape deck.
 
 Alternatively, we could get the boot tape out and rebuild the 
 root filesystem, but neither James nor Neil had done that before, and we weren't 
@@ -83,7 +83,7 @@ by Murphy's Law this had to happen on a Wednesday). Another solution might be
 to borrow a disk from another VAX, boot off that, and tidy up later, but that 
 would have entailed calling the DEC engineer out, at the very least. We had 
 a number of users in the final throes of writing up PhD theses and the loss 
-of a maybe a weeks' work (not to mention the machine down time) was unthinkable.</p>
+of a maybe a weeks' work (not to mention the machine down time) was unthinkable.
 
 So, what to do? The next idea was to write a program to make 
 a device descriptor for the tape deck, but we all know where cc, as and ld live. 
@@ -92,7 +92,7 @@ Or maybe make skeletal entries for /etc/passwd, /etc/hosts and so on, so that
 of my windows, which we could use to create passwd, etc., but the first step 
 was to create a directory to put them in. Of course /bin/mkdir had gone, and 
 so had /bin/mv, so we couldn't rename /tmp to /etc. However, this looked like 
-a reasonable line of attack.</p>
+a reasonable line of attack.
 
 By now we had been joined by Alasdair, our resident UNIX guru, 
 and as luck would have it, someone who knows VAX assembler. So our plan became 
@@ -102,13 +102,13 @@ using my gnu, uudecode it (some bright spark had thought to put uudecode in
 /usr/bin), run it, and hey presto, it would all be plain sailing from there. 
 By yet another miracle of good fortune, the terminal from which the damage had 
 been done was still su'd to root (su is in /bin, remember?), so at least we 
-stood a chance of all this working.</p>
+stood a chance of all this working.
 
 Off we set on our merry way, and within only an hour we had managed 
 to concoct the dozen or so lines of assembler to create /etc. The stripped binary 
 was only 76 bytes long, so we converted it to hex (slightly more readable than 
 the output of uuencode), and typed it in using my editor. If any of you ever 
-have the same problem, here's the hex for future reference:</p>
+have the same problem, here's the hex for future reference:
 
     070100002c000000000000000000000000000000000000000000000000000000
     0000dd8fff010000dd8f27000000fb02ef07000000fb01ef070000000000bc8f
@@ -119,7 +119,7 @@ ASCII hex to binary, and the output of /usr/bin/sum tallied with our original
 binary. But hang on---how do you set execute permission without /bin/chmod? 
 A few seconds thought (which as usual, lasted a couple of minutes) suggested 
 that we write the binary on top of an already existing binary, owned by me...problem 
-solved.</p>
+solved.
 
 So along we trotted to the terminal with the root login, carefully 
 remembered to set the umask to 0 (so that I could create files in it using my 
@@ -128,28 +128,28 @@ it was but a few easy steps to creating passwd, hosts, services, protocols,
 (etc), and then ftp was willing to play ball. Then we recovered the contents 
 of /bin across the ether (it's amazing how much you come to miss ls after just 
 a few, short hours), and selected files from /etc. The key file was /etc/rrestore, 
-with which we recovered /dev from the dump tape, and the rest is history.</p>
+with which we recovered /dev from the dump tape, and the rest is history.
 
 Now, you're asking yourself (as I am), what's the moral of this 
 story? Well, for one thing, you must always remember the immortal words, DON'T 
 PANIC. Our initial reaction was to reboot the machine and try everything as 
 single user, but it's unlikely it would have come up without /etc/init and /bin/sh. 
-Rational thought saved us from this one.</p>
+Rational thought saved us from this one.
 
 The next thing to remember is that UNIX tools really can be put 
 to unusual purposes. Even without my gnuemacs, we could have survived by using, 
-say, /usr/bin/grep as a substitute for /bin/cat.</p>
+say, /usr/bin/grep as a substitute for /bin/cat.
 
 And the final thing is, it's amazing how much of the system you 
 can delete without it falling apart completely. Apart from the fact that nobody 
 could login (/bin/login?), and most of the useful commands had gone, everything 
 else seemed normal. Of course, some things can't stand life without say /etc/termcap, 
-or /dev/kmem, or /etc/utmp, but by and large it all hangs together.</p>
+or /dev/kmem, or /etc/utmp, but by and large it all hangs together.
 
 I shall leave you with this question: if you were placed in the 
 same situation, and had the presence of mind that always comes with hindsight, 
 could you have got out of it in a simpler or easier way? Answers on a postage 
-stamp to:</p>
+stamp to:
 
 Mario Wolczko
 

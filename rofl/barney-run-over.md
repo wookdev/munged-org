@@ -14,14 +14,14 @@ He was singing to the kiddies <br>
 Now he is just a piece of roadkill<br>
 Some furry purple bits of dino-goo.
 
-Chorus</p>
+Chorus
 
 I don't think the children like me<br>
 But though I killed him, it's not wrong<br>
 We're saved from evil propaganda<br>
 That purple, nazi mind-controller's gone
 
-Chorus</p>
+Chorus
 
 My trial date is set for Tuesday<br>
 I won't get off (so I've been told)<br>

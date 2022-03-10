@@ -4,119 +4,119 @@ title: Why Did The Chicken Cross the Road?
 ---
 
 The Sphinx:<br>
-You tell me. </p>
+You tell me. 
 
 Buddha:<br>
-If you ask this question, you deny your own chicken-nature.</p>
+If you ask this question, you deny your own chicken-nature.
 
 Hippocrates:<br>
-Because of an excess of light pink gooey stuff in its pancreas.</p>
+Because of an excess of light pink gooey stuff in its pancreas.
 
 Epicurus:<br>
-For fun.</p>
+For fun.
 
 Pyrrho the Skeptic:<br>
-What road?</p>
+What road?
 
 Plato:<br>
-For the greater good.</p>
+For the greater good.
 
 Aristotle:<br>
-To actualize its potential.</p>
+To actualize its potential.
 
 Machiavelli:<br>
 So that its subjects will view it with admiration, as a chicken which has the 
 daring and courage to boldly cross the road, but also with fear, for whom among 
 them has the strength to contend with such a paragon of avian virtue? In such 
-a manner is the princely chicken's dominion maintained.</p>
+a manner is the princely chicken's dominion maintained.
 
 Tomas de Torquemada:<br>
-Give me ten minutes with the chicken and I'll find out.</p>
+Give me ten minutes with the chicken and I'll find out.
 
 Nietzsche:<br>
-Because if you gaze too long across the Road, the Road gazes also across you.</p>
+Because if you gaze too long across the Road, the Road gazes also across you.
 
 Johann Friedrich von Goethe:<br>
-The eternal hen-principle made it do it.</p>
+The eternal hen-principle made it do it.
 
 Ralph Waldo Emerson:<br>
-It didn't cross the road; it transcended it.</p>
+It didn't cross the road; it transcended it.
 
 Henry David Thoreau:<br>
-To live deliberately ... and suck all the marrow out of life.</p>
+To live deliberately ... and suck all the marrow out of life.
 
 Mark Twain:<br>
-The news of its crossing has been greatly exaggerated.</p>
+The news of its crossing has been greatly exaggerated.
 
 Karl Marx:<br>
-It was a historical inevitability.</p>
+It was a historical inevitability.
 
 Carl Jung:<br>
 The confluence of events in the cultural gestalt necessitated that individual 
 chickens cross roads at this historical juncture, and therefore synchronicitously 
-brought such occurrences into being.</p>
+brought such occurrences into being.
 
 Jean-Paul Sartre:<br>
 In order to act in good faith and be true to itself, the chicken found it necessary 
-to cross the road.</p>
+to cross the road.
 
 Ludwig Wittgenstein:<br>
 The possibility of "crossing" was encoded into the objects "chicken" 
 and"road," and circumstances came into being which caused the actualization 
-of this potential occurrence.</p>
+of this potential occurrence.
 
 David Hume:<br>
-Out of custom and habit.</p>
+Out of custom and habit.
 
 Ernest Hemingway:<br>
-To die. In the rain.</p>
+To die. In the rain.
 
 Emily Dickinson:<br>
-Because it could not stop for death.</p>
+Because it could not stop for death.
 
 Joseph Stalin:<br>
-I don't care. Catch it. I need its eggs to make my omelet.</p>
+I don't care. Catch it. I need its eggs to make my omelet.
 
 Albert Einstein:<br>
 Whether the chicken crossed the road or the road crossed the chicken depends 
-upon your frame of reference.</p>
+upon your frame of reference.
 
 Werner Heisenberg:<br>
 We are not sure which side of the road the chicken was on, but it was moving 
-very fast.</p>
+very fast.
 
 Timothy Leary:<br>
-Because that's the only kind of trip the Establishment would let it take.</p>
+Because that's the only kind of trip the Establishment would let it take.
 
 Salvador Dali:<br>
-The Fish.</p>
+The Fish.
 
 Douglas Adams:<br>
-Forty-two.</p>
+Forty-two.
 
 Stephen Jay Gould:<br>
 It is possible that there is a sociobiological explanation for it, but we have 
 been deluged in recent years with sociobiological stories despite the fact that 
 we have little direct evidence about the genetics of behavior, and we do not 
 know how to obtain it for the specific behaviors that figure most prominently 
-in sociobiological speculation.</p>
+in sociobiological speculation.
 
 Oliver North:<br>
-National Security was at stake.</p>
+National Security was at stake.
 
 Ronald Reagan:<br>
-I forget.</p>
+I forget.
 
 John Sununu:<br>
 The Air Force was only too happy to provide the transportation, so quite understandably 
-the chicken availed himself of the opportunity.</p>
+the chicken availed himself of the opportunity.
 
 Jack Nicholson:<br>
-'Cause it f*cking wanted to. That's the f*cking reason.</p>
+'Cause it f*cking wanted to. That's the f*cking reason.
 
 Saddam Hussein:<br>
 This was an unprovoked act of rebellion, and we were quite justified in dropping 
-50 tons of nerve gas on it.</p>
+50 tons of nerve gas on it.
 
 Andersen Consultant:<br>
 Deregulation of the chicken's side of the road was threatening its dominant 

@@ -24,6 +24,6 @@ lot, it could only be worse in Milwaukee. You are a fluke of the universe; you
 have no right to be here, and whether you can hear it or not, the universe is 
 laughing behind your back. Therefore make peace with your God whatever you conceive 
 Him to be: Hairy Thunderer, or Cosmic Muffin. With all its hopes, dreams, promises, 
-and urban renewal, the world continues to deteriorate. Give up.</p>
+and urban renewal, the world continues to deteriorate. Give up.
 
-By Tony Hendra - 1972</p>
+By Tony Hendra - 1972

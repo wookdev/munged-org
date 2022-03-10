@@ -37,7 +37,7 @@ it could help you to know...
 
 3. Physical for Real (Mono on Mono or "Hello, kiss me... what's your name?")
 
- Going without sleep has no effect on you? You've got the allnighter's 
+ Going without sleep has no effect on you? You've got the all-nighter's 
  tolerance? You're going to need to catch something. Virulent. This can definitely 
  involve some interesting social interactions.
 
@@ -45,7 +45,7 @@ it could help you to know...
 
  Age yourself seven or so years in a hurry! This stratagem either 
  requires some very expensive time travel equipment or your girlfriend telling 
- you she accidently took the Pill out of order and has been eating vitamins for 
+ you she accidentally took the Pill out of order and has been eating vitamins for 
  the past week. In any case, an old British phone booth can be substituted for 
  one of these methods.
 

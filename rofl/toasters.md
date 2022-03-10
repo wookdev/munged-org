@@ -9,44 +9,44 @@ overnight toasting. IBM would claim a worldwide market for five, maybe six toast
 
 If Xerox made toasters... <br>
 You could toast one-sided or double-sided. Successive slices would get lighter 
-and lighter. The toaster would jam your bread for you. </p>
+and lighter. The toaster would jam your bread for you. 
 
 If Radio Shack made toasters... <br>
 The staff would sell you a toaster, but not know anything about it. Or you could 
-buy all the parts to build your own toaster. </p>
+buy all the parts to build your own toaster. 
 
 If University of Waterloo made toasters... <br>
-They would immediately spin off a company called WatToast. </p>
+They would immediately spin off a company called WatToast. 
 
 If ParcPlace made toasters.. . <br>
-Their OO building block system would be called EGGO. </p>
+Their OO building block system would be called EGGO. 
 
 If Oracle made toasters... <br>
 They'd claim their toaster was compatible with all brands and styles of bread, 
 but when you got it home you'd discover the Bagel Engine was still in development, 
 the Croissant Extension was three years away, and that indeed the whole appliance 
-was just blowing smoke. </p>
+was just blowing smoke. 
 
 If Sun made toasters... <br>
-The toast would burn often, but you could get a really good cuppa Java. </p>
+The toast would burn often, but you could get a really good cuppa Java. 
 
 Does DEC still make toasters?... <br>
-They made good toasters in the '80s, didn't they? </p>
+They made good toasters in the '80s, didn't they? 
 
 If Hewlett-Packard made toasters... <br>
 They would market the Reverse Polish Toaster, which takes in toast and gives 
-you regular bread. </p>
+you regular bread. 
 
 If Tandem made toasters... <br>
 You could make toast 24 hours a day, and if a piece got burned the toaster would 
-automatically toast you a new one. </p>
+automatically toast you a new one. 
 
 If Thinking Machines made toasters... <br>
-You would be able to toast 64,000 pieces of bread at the same time. </p>
+You would be able to toast 64,000 pieces of bread at the same time. 
 
 If Cray made toasters... <br>
 They would cost $16 million but would be faster than any other single-slice 
-toaster in the world. </p>
+toaster in the world. 
 
 If The Rand Corporation made toasters... <br>
 It would be a large, perfectly smooth and seamless black cube. Every morning 
@@ -56,28 +56,28 @@ classified government documents. The X-Files would have an episode about it.
 
 If the NSA made toasters... <br>
 Your toaster would have a secret trap door that only the NSA could access in 
-case they needed to get at your toast for reasons of national security. </p>
+case they needed to get at your toast for reasons of national security. 
 
 If Sony made toasters... <br>
 The ToastMan, which would be barely larger than the single piece of bread it 
-is meant to toast, can be conveniently attached to your belt. </p>
+is meant to toast, can be conveniently attached to your belt. 
 
 If Timex made toasters... <br>
 They would be cheap and small quartz-crystal wrist toasters that take a licking 
-and keep on toasting. </p>
+and keep on toasting. 
 
 If Fisher Price made toasters... <br>
 "Baby's First Toaster" would have a hand-crank that you turn to toast 
-the bread that pops up like a Jack-in-the-box. </p>
+the bread that pops up like a Jack-in-the-box. 
 
 If the Franklin Mint made toasters... <br>
 Every month, you would receive another lovely hand-crafted piece of your authentic 
-hand-crafted Civil War pewter toaster. </p>
+hand-crafted Civil War pewter toaster. 
 
 If CostCo made toasters... <br>
-They'd be really cheap, as long as you bought a six-pack of 'em. </p>
+They'd be really cheap, as long as you bought a six-pack of 'em. 
 
-And, of course: </p>
+And, of course: 
 
 If Microsoft made toasters... <br>
 Every time you bought a loaf of bread, you would have to buy a toaster. You 
@@ -88,9 +88,9 @@ kitchen, would claim to be the first toaster that lets you control how light
 or dark you want your toast to be, and would secretly interrogate your other 
 appliances to find out who made them. Everyone would hate Microsoft toasters, 
 but nonetheless would buy them since most of the good bread only works with 
-their toasters. </p>
+their toasters. 
 
 If Apple made toasters... <br>
 It would do everything the Microsoft toaster does, but 5 years earlier. But, 
-they would only advertise it to people who already own one. </p>
-<p></p>
+they would only advertise it to people who already own one. 
+

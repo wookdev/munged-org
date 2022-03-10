@@ -6,7 +6,7 @@ title: Consumer Reports Looks at Girlfriends
 It has been almost 20 years since Consumer Reports reviewed 
 girlfriends (CR, Aug 1972). Since then, styles have changed, new features have 
 been introduced, and the market has changed substantially. Clearly, another 
-report was long overdue.</p>
+report was long overdue.
 
 ### Identifying Your Needs
 
@@ -14,7 +14,7 @@ As with any major purchase, before obtaining a girlfriend you
 should ask yourself exactly why you need one. Do you want an intellectual companion? 
 A baby factory? A hiking partner? Or just lots of good, old-fashioned sex? Identifying 
 your needs is the first, and most important, step in selecting a girlfriend. 
-</p>
+
 
 The potential girlfriends you see in most showrooms tend to be 
 loaded with the usual flashy accessories -- large breasts, long legs, blonde 
@@ -23,7 +23,7 @@ appeal to fringe markets. For example, some models come pre-equipped with pets
 and/or children; others can run 10 miles while chanting Sanskrit. You should 
 make a list of accessories desired, tolerated, and disliked. Note that some 
 accessories (such as children) can be added later, while others (such as a large 
-bosom) must be factory-installed.</p>
+bosom) must be factory-installed.
 
 ### Determine Your Budget
 
@@ -32,17 +32,17 @@ can afford. The answer is largely determined by your physical and personal chara
 If you are good-looking and have a commanding personality and a good sense of 
 humor, you will have the resources to obtain a fancy, high-end model. On the 
 other hand, if you are ugly, smell bad, and wear polyester clothes, your choices 
-are more limited. Keep your purchasing power in mind when considering your selection.</p>
+are more limited. Keep your purchasing power in mind when considering your selection.
 
 Although the salesman will tell you that a girlfriend can be 
 financed, CR does not recommend this practice: due to inflating expectations, 
-the required monetary outlay will actually *increase* with time.</p>
+the required monetary outlay will actually *increase* with time.
 
 ### Used vs. New?
 
 A question many girlfriend seekers have to address is whether 
 to get a new or used girlfriend. The answer to this question will, roughly speaking, 
-be determined by your age:</p>
+be determined by your age:
 
 <table>
 <tr> 
@@ -72,7 +72,7 @@ be determined by your age:</p>
 </table>
 
  ***Only if income exceeds $250,000/year. Otherwise, "Divorced, 
-with kids."</p>
+with kids."
 
  New girlfriends offer the advantage of having no previous bad 
 experiences to project upon you. The disadvantage is that they will rarely be 
@@ -80,7 +80,7 @@ old enough to open a checking account. Used girlfriends, on the other hand,
 tend to be steady, reliable performers, with the initial problems worked out. 
 CR does advise that you use caution when choosing models that have significantly 
 higher than average mileage (2.1 SO's/yr). This may be an indication that the 
-girlfriend was a professional.</p>
+girlfriend was a professional.
 <h3>CR's Methodology</h3>
 
  For our purposes, girlfriends were evaluated by a dedicated 
@@ -89,11 +89,11 @@ All tests were performed at CR's specially constructed facility, which included
 a bedroom, kitchen, and living room, and at a number of bars and taverns surrounding 
 the facility. A series of seven tests were run, evaluating each product according 
 to the following criteria: intelligence, wit, humor, empathy, initiative, looks, 
-and performance.</p>
+and performance.
 <h3>Results</h3>
 
 Girlfriends are categorized by similarity. Within each category, 
-variation is not statistically significant.</p>
+variation is not statistically significant.
 <table>
 <tr> 
   <td class="words" align="left" valign="top">Category</td>
@@ -138,18 +138,18 @@ variation is not statistically significant.</p>
 </tr>
 <tr> 
   <td class="words" align="left" valign="top"> 
-    <p>Yeah, Her </p>
+    Yeah, Her 
   </td>
   <td valign="top" align="left"> 
     
 The Chevy Nova of girlfriends. Widely available, but useful 
       only in a pinch, if no others are available. Tends to be spiteful or unreliable, 
-      with a dull finish.</p>
+      with a dull finish.
   </td>
 </tr>
 </table>
 
-Until you find her, we at CR wish you Happy Hunting!</p>
+Until you find her, we at CR wish you Happy Hunting!
  
 <hr noshade width="100%" size="1">
 <span class="footer"> Attribution, if any, is included in the text. If this is 

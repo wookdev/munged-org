@@ -81,4 +81,4 @@ weed. But I overheard his parting exclamation, audible immediately prior to
 his vehiculation beyond the limits of visibility: "Ecstatic Yuletide to the
 planetary constituency, and to that self same assemblage, my sincerest
 wishes for a salubriously beneficial and gratifyingly pleasurable period
-between sunset and dawn."</p>
+between sunset and dawn."

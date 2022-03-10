@@ -15,7 +15,7 @@ All of a sudden a lowrider rolled by<br>
 Bumpin phat beats cuz the system's fly<br>
 I bounced to the window at a quarter pas'<br>
 Bout ready to pop a cap in somebody's #$$!<br>
-well anyway</p>
+well anyway
 
 I yelled to my lady, Yo peep this!<br>
 She said, Stop frontin just mind yo' bidness<br>
@@ -28,7 +28,7 @@ I said, Yo red Dawg, you all that!<br>
 He threw up a sign and yelled to his boyz,<br>
 "Ay yo, give it up, let's make some noise!<br>
 To the top of the projects and across the strip mall,<br>
-We gots ta go, I got a booty call!"</p>
+We gots ta go, I got a booty call!"
 
 He pulled up his ride on the top a da roof<br>
 and sippin on a 40, he busted a move<br>
@@ -52,4 +52,4 @@ He jumped in his hooptie with rims made of chrome<br>
 To tap that booty waitin at home<br>
 and all I heard as he cruised outta sight<br>
 was a loud and hearty.....<br>
-"WEEESST SIIIIDE!!!!!!!" </p>
+"WEEESST SIIIIDE!!!!!!!" 

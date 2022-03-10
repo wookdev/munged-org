@@ -33,4 +33,4 @@ becomes:
 > than any other operating system NOT
 
 Please start using this system today NOT With your help, we can help save our 
-precious bangs for future generations NOT</p>
+precious bangs for future generations NOT

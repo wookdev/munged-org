@@ -7,9 +7,9 @@ One basic truth: Men and women are different.
  
 Now, this may seem a little simplistic, but the fact is, for a period of about
 six months in 1973, it was very fashionable to believe that we were all persons
-first, and members of our gender second.</p>
+first, and members of our gender second.
 
-This, of course, was so much hooey.</p>
+This, of course, was so much hooey.
 
 We are different -- in our habits, and in the way we react to environmental
 stimuli and the way we spend our leisure time; and we are especially different
@@ -23,29 +23,29 @@ between men and women.
 First of all, a man does not call a relationship. He refers to it as a 
 romance, or a period of dating, of going out, or, in some unfortunate 
 circumstances, "that time when me and Suzie was doing it on a semi-regular 
-basis."</p>
+basis."
 
 When a relationship ends, a woman will cry, and pour her heart out to her 
 girlfriends, and she will write a poem titled "All Men are Morons." 
-Then she will get on with her life.</p>
+Then she will get on with her life.
 
 A man has a little more trouble letting go. For six months, his ex may not 
 hear from him, but then, at three on Saturday night/Sunday morning, he will call
 and say, "I just wanted to let you know you ruined my life, and I'll never 
 forgive you, and I hate you, and you're a total bitch. But I want to let you 
-know there's always a chance for us."</p>
+know there's always a chance for us."
 
 This is known as the "I Hate You/I Love You" drunken phone call. Ninety-nine 
 percent of all men past the age of 21 have made this call at least once. Some
 men make a career of these calls. There are community colleges that offer 
 extension courses to help men get over this need; alas, these classes rarely 
-prove effective.</p>
+prove effective.
 
 ### SEX
 
 Women prefer 30 to 45 minutes of foreplay. Men prefer 30 to 45 seconds of 
 foreplay, less if at all possible. For the man, driving back to her place is 
-considered a part of foreplay.</p>
+considered a part of foreplay.
 
 ### MATURITY
 
@@ -253,56 +253,56 @@ mountain of dirty clothes to the Laundromat. Men always expect to meet
 beautiful women at the Laundromat, but this is only a myth perpetuated by old 
 reruns of Love American Style.
 
-### POLITICS</p>
+### POLITICS
 
 Men love to talk politics, but often they forget to do political things such 
 as voting. Women are very happy that another generation of Kennedy's is 
 growing up and getting into politics because they will be able to campaign for
 them and cry on election night.
 
-### WEDDINGS</p>
+### WEDDINGS
 
 When reminiscing about weddings women talk about "the ceremony." Men talk 
 about "the bachelor party."
 
-### CHEERLEADERS</p>
+### CHEERLEADERS
 
 Female cheerleaders are cute, sexy, fresh, and all American. Male cheerleaders
 are scary.
 
-### SOCKS</p>
+### SOCKS
 
 Men are sensible about socks. They wear argyle socks or standard white 
 sweatsocks. Women wear strange socks. Socks with pictures of clouds on them.
 Socks that are cut way below their ankles. socks that have little fuzzy balls
 on the back.
 
-### GARAGES</p>
+### GARAGES
 
 Women use garages to park their cars and store their lawnmowers. Men use 
 garages for many things. They hang license plates in garages, and they watch 
 TV in garages, and they build useless lopsided benches in garages.
 
-### MOVIES</p>
+### MOVIES
 
 For women their favorite movie scene is when Clark Gable kisses Vivien Leigh 
 for the first time in Gone With the Wind. For men it's when Jimmy Cagney shoves
 grapefruit in may Clark's face in Public Enemy.
 
-### NUDITY IN MOVIES</p>
+### NUDITY IN MOVIES
 
 Every actress in the history of movies has had to do a nude scene. This is 
 because every movie in the history of movies has been produced by a man. The 
 only actor who has ever appeared nude in the movies is Richard Gere. This is 
 another reason why men hate him.
 
-### JEWELRY</p>
+### JEWELRY
 
 Women look nice when they wear jewelry. A man can get away with wearing one 
 ring and that's it. Any more than that and he will look like a lounge singer 
 named Vic.
 
-### THE MOST IMPORTANT DIFFERENCE OF ALL</p>
+### THE MOST IMPORTANT DIFFERENCE OF ALL
 
 Colored underwear. Women are allowed, in fact encouraged, to wear colored 
 underwear. There is no reason for a man to ever, ever, wear anything besides

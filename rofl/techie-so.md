@@ -3,7 +3,7 @@ layout: page
 title: SIGNIFICANT OTHERS SPEAK OUT!!!
 ---
 
-By: Shirley Clawson </p>
+By: Shirley Clawson 
 
 So you've found yourself attracted to a computer nerd. (Sorry 
 techies; that IS what those of us that exist in the real world call you.) Spousal 
@@ -14,7 +14,7 @@ with: THE TECHIE. But first, a couple of disclaimers: All persons and events
 portrayed in this article are real and any resemblance to actual people or incidents 
 is entirely intentional. Techies portrayed herein are of the male variety but 
 male SO's have confirmed that they experience the same phenomenon in relation 
-to their female techies. </p>
+to their female techies. 
 
 To properly co-exist with a techie, you must first understand 
 three basic premises on which his view of the world is based:
@@ -29,7 +29,7 @@ pressure) that they are not God, are however, equal to God.
 
 These three premises result in techies having a drastically 
 different way of thinking as compared to the average person. This unique approach 
-to life will be exhibited on a daily basis in many subtle ways: </p>
+to life will be exhibited on a daily basis in many subtle ways: 
 
 ```
 TOPIC           WHAT YOU'RE THINKING      WHAT TECHIE'S THINKING 

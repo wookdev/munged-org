@@ -9,7 +9,7 @@ This is my own, though the style is a blatant copy of Matt Groening.
 
 Scon is short for Student Consultant. Scons are people hired to help users learn 
 and work with the university's machinery. A pod is a UNM term for a place where 
-such machinery is made available.</p>
+such machinery is made available.
 
 ### The nine types of users:
 

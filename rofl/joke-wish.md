@@ -6,16 +6,16 @@ title: From the Be Careful What You Wish For Dept...
 Two men were adrift in a life boat following a dramatic escape from a burning 
 freight vessel. While rummaging through the boat's provisions, one of the men 
 stumbled across an old lamp. Secretly hoping that a Genie would appear, he rubbed 
-the lamp vigorously.</p>
+the lamp vigorously.
 
 To the amazement of the castaways, one did come forth. This particular Genie, 
-however, stated that she could only deliver one wish, not the standard three.</p>
+however, stated that she could only deliver one wish, not the standard three.
 
 Without giving much thought to the matter the man blurted out, "Make 
-the entire ocean into beer!"</p>
+the entire ocean into beer!"
 
 Immediately the Genie clapped her hands with a deafening crash, and the entire 
-sea turned into the finest brew ever sampled by mortals.</p>
+sea turned into the finest brew ever sampled by mortals.
 
 Simultaneously, the Genie vanished to her freedom. Only the gentle lapping 
 of beer on the hull broke the stillness as the two men considered their circumstances. 

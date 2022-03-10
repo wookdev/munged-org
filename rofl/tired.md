@@ -12,7 +12,7 @@ long ago!) Unfortunately, I don't have the original source anymore.
 Note the date sent and the prices quoted.
 
 Atlanta, Georgia<br>
-September 13, 1970</p>
+September 13, 1970
 
 Director<br>
 Billing Department<br>
@@ -25,13 +25,13 @@ Dear Sir:
 I have been a regular customer of the Shell Oil Company for several years now, 
 and spend approximately $40.00 per month on Shell products. Until recently, 
 I have been completely satisfied with the quality of Shell products and with 
-the service of Shell employees. </p>
+the service of Shell employees. 
 
 Included in my most recent statement from your department was a bill for $12.00 
 for a tire which I purchased at the Lowell I. Reels Shell station in McAdenville, 
 N.C. I stopped at this station for gasoline and to have a timing malfunction 
 corrected. The gasoline cost $5.15; eight new plugs cost $9.36; labor on the 
-points $2.50. All well and good. </p>
+points $2.50. All well and good. 
 
 Earlier in the day I had a flat tire, which the attendant at the Lowell I. 
 Reels station informed me that he was unable to fix. He suggested that I purchase 
@@ -54,7 +54,7 @@ of a medium sized hippie. In a twinkling, then, I was driving down Interstate
 85 at sixty miles per hour on three tires and one rim with rubber clinging to 
 it in desperate shreds and patches, an instrument with a bent, revolving, steel-then-rubber-then-steel 
 rim, whose sound can be approximated by the simultaneous placing of a handful 
-of gravel and a young duck into a Waring Blender. </p>
+of gravel and a young duck into a Waring Blender. 
 
 The word "careen" does no justice whatever to the movement that the 
 car then performed. According to the highway patrolman's report, the driver 
@@ -63,8 +63,8 @@ pass me at the time-- ejaculated adrenelin all over the ceiling of his car.
 My own passengers were fused into a featureless quiver in the key of "G" 
 in the back seat of my car. The rim was bent; the tits were gone; and you can 
 f--k yourself with a cream cheese dildo if you entertain for one moment the 
-delusion that I intend to pay the twelve dollars. </p>
+delusion that I intend to pay the twelve dollars. 
 
-Sincerely yours, </p>
+Sincerely yours, 
 
-/s/ T.B.T. </p>
+/s/ T.B.T. 
