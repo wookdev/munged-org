@@ -1,7 +1,6 @@
 ---
 layout: page
 title: FB Quotes
-nav: FB Quotes
 ---
 
 Just like I used to take screenshots of funny things that were said in

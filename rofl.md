@@ -1,9 +1,13 @@
 ---
-layout: page title: ROFL -- The Humor Arkive nav: ROFL
+layout: page 
+title: ROFL -- The Humor Arkive
+nav: ROFL
 ---
 
-These files have come to me via the internet, and even before then. Some of it is from the BBS days before I was really
-on the net. Some of it is badly dated, but possibly interesting to read anyway. The really old stuff also has a habit of
+These files have come to me via the internet, and even before then. Some of it is
+from the BBS days before I was really
+on the net. Some of it is badly dated, but possibly interesting to read anyway. The
+really old stuff also has a habit of
 showing up again in new forms, so consider this a way of documenting What Has Gone Before.
 
 Enjoy:
