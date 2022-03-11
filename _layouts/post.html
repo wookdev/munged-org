@@ -8,4 +8,14 @@ layout: html
     {{ content }}
 </div>
 
+<div class="pagination">
+    {% if page.next %}
+    <div class="align-right"><a href="{{ page.next.url }}">Next</a></div>
+    {% endif %}
+
+    {% if page.previous %}
+    <div class="align-left"><a href="{{ page.previous.url }}">Prev</a></div>
+    {% endif %}
+</div>
+
 {% include giscus.html %}
