@@ -1,7 +1,6 @@
 ---
 layout: page
 title: EQ Quotes
-nav: EQ Quotes
 ---
 
 # Wook's Screenshot Quote Collection (mostly) All In One Place

@@ -1,0 +1,15 @@
+#
+# These commands were used to convert /rofl files from Dreamweaver
+# templates to markdown, tho each had to be touched by hand too.
+#
+sed -i '' -E -e 's/<p class="words">/\n/i' *.md
+sed -i '' -E -e 's/\&quot;/"/gi' *.md
+sed -i '' -E -e 's/^\..+$//' *.md
+sed -i '' -E -e 's/<!--([^-]+)-->//g' *.md
+sed -i '' -E -e 's/<\/?(body|html|head|meta|style|title)([^>]*)>//gi' *.md
+sed -i '' -E -e 's/^  //' *.md
+sed -i '' -E -e 's/<\/?(strong|b)>/\*\*/gi' *.md
+sed -i '' -E -e 's/<table([^>]*)>/<table>/i' *.md
+sed -i '' -E -e 's/<tr([^>]*)>/<tr>/i' *.md
+sed -i '' -E -e 's/<td([^>]*)>/<td>/gi' *.md
+sed -i '' -E -e 's/<\/?p>//gi' *.md

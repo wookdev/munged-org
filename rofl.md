@@ -1,14 +1,14 @@
 ---
-layout: page
+layout: page 
 title: ROFL -- The Humor Arkive
 nav: ROFL
 ---
 
-These files have come to me via the internet, and even before then. Some of 
-it is from the BBS days before I was really on the net. Some of it is badly 
-dated, but possibly interesting to read anyway. The really old stuff also has 
-a habit of showing up again in new forms, so consider this a way of documenting 
-What Has Gone Before.
+These files have come to me via the internet, and even before then. Some of it is
+from the BBS days before I was really
+on the net. Some of it is badly dated, but possibly interesting to read anyway. The
+really old stuff also has a habit of
+showing up again in new forms, so consider this a way of documenting What Has Gone Before.
 
 Enjoy:
 
@@ -402,8 +402,7 @@ Enjoy:
 
 ## Stories
 
-The main thing about these are that they are true, actually happened, or 
-are otherwise verifiable.
+The main thing about these are that they are true, actually happened, or are otherwise verifiable.
 
 <table class="rofl-table">
   <tr> 
@@ -427,8 +426,8 @@ are otherwise verifiable.
 
 ## Jokes
 
-I post very few actual jokes. Mostly this is because there are so many other 
-internet joke archives. The best is the <a href="http://www.netfunny.com/rhf/">"Rec.Humor.Funny"</a> 
+I post very few actual jokes. Mostly this is because there are so many other internet joke archives. The best is
+the <a href="http://www.netfunny.com/rhf/">"Rec.Humor.Funny"</a>
 archive. However, some amuse me so much that I want to keep them around.
 
 <table class="rofl-table">
@@ -472,8 +471,7 @@ archive. However, some amuse me so much that I want to keep them around.
 
 ## Christmas Fun
 
-Assorted "12 Days" and "Twas' the Night Before..." take offs. 
-There are enough of these to make a whole section.
+Assorted "12 Days" and "Twas' the Night Before..." take offs. There are enough of these to make a whole section.
 
 <table class="rofl-table">
   <tr>
@@ -553,5 +551,20 @@ There are enough of these to make a whole section.
   <tr> 
     <td class="align-right"><a href="{% link rofl/santa-reality.md %}">Reality</a></td>
     <td> Why Santa shouldn't exist.</td>
+  </tr>
+</table>
+
+## Other Stuff...
+
+Other pages of funny/entertaining stuff. Maybe only funny/entertaining to me.
+
+<table>
+  <tr>
+    <td class="align-right"><a href="{% link rofl/eq-quotes.md %}">EQ Quotes</a></td>
+    <td> Things said in EverQuest</td>
+  </tr>
+  <tr>
+    <td class="align-right"><a href="{% link rofl/fb-quotes.md %}">FB Quotes</a></td>
+    <td>Things said in Facebook</td>
   </tr>
 </table>

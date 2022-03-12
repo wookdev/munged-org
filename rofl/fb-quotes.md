@@ -1,11 +1,11 @@
 ---
 layout: page
 title: FB Quotes
-nav: FB Quotes
 ---
 
-I used to take screenshots of funny things that happened in chat in Everquest.
-I also did it on Facebook, just before I left it.  Here's a couple of funny
+Just like I used to take screenshots of funny things that were said in
+chat in Everquest, 
+I also did it on Facebook. Here's a couple of funny
 posts from my FB days.
 
 ---
