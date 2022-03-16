@@ -1,12 +1,7 @@
 ---
 layout: post
 title: The Rest of My Life
-author: Wook
-tags:
-  - Health
-  - Diet
-  - Weight
-  - The Plan
+
 ---
 I've been "on a diet" now for about 8 years.  I've lost zero pounds in
 that time.

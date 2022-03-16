@@ -1,18 +1,6 @@
 ---
 layout: post
 title: New Tires for Wook 1 - Sort of a Review
-permalink: /ymmv/2014/11/2/new-tires-for-wook-1-sort-of-a-review
-postname: 2014/11/2/new-tires-for-wook-1-sort-of-a-review
-posttype: post
-postid: 9
-status: publish
-pubDate: Mon, 03 Nov 2014 06:02:31 +0000
-postdate: 2014-11-03 06:02:31
-postdategmt: 2014-11-03 06:02:31
-tags:
-  - Tires
-  - Car
-creator: squarespace@munged.org
 ---
 
 A couple of week ago I bought new tires for Wook 1, to replace the Cooper Zeons

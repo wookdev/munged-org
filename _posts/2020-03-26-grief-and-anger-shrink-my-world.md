@@ -2,14 +2,14 @@
 layout: post
 author: Wook
 title: Grief and Anger Shrink My World...
-tags:
-- Nine Princes In Amber
-- Books
-- Quote
 date: 2020-03-26 00:00:00 -0400
-
 ---
-[Roger Zelazny's](https://en.wikipedia.org/wiki/Roger_Zelazny "Roger Zelazny on Wikipedia") "[Chronicles of Amber](https://en.wikipedia.org/wiki/The_Chronicles_of_Amber "Chronicles of Amber on Wikipedia")" made it to ebook stores finally.  I picked them up and am re-reading them.  It's been a long time.  One of my favorite quotes of all time comes from "Trumps of Doom", the first book of the second cycle, focussing on Merlin.
+
+[Roger Zelazny's](https://en.wikipedia.org/wiki/Roger_Zelazny "Roger Zelazny on Wikipedia")
+"[Chronicles of Amber](https://en.wikipedia.org/wiki/The_Chronicles_of_Amber "Chronicles of Amber on Wikipedia")"
+made it to ebook stores finally.  I picked them up and am re-reading them.  It's been a long time.
+One of my favorite quotes of all time comes from "Trumps of Doom", the first book of the second
+cycle, focussing on Merlin.
 
 The quote:
 

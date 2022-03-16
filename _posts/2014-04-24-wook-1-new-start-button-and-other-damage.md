@@ -1,21 +1,8 @@
 ---
 layout: post
 title: Start Button and Other Damage
-permalink: /ymmv/2014/4/24/wook-1-new-start-button-and-other-damage
-postname: 2014/4/24/wook-1-new-start-button-and-other-damage
-postid: 35
-status: publish
-pubDate: Thu, 24 Apr 2014 21:01:11 +0000
-postdate: 2014-04-24 21:01:11
-postdategmt: 2014-04-24 21:01:11
-tags:
-  - A5
-  - Vehicle Maintenance
-  - whaaaa!
-  - First World Problems
-  - YMMV
-creator: squarespace@munged.org
 ---
+  
 ![startbutton][]
 
 Car goes in next week for a new "Start Engine Stop" button. The foil is peeling off, and
@@ -35,4 +22,4 @@ some sort that they can just bend it back for cheap. If it does end up being an
 insurance thing, might be time to get the second set of deer dents taken care of,
 too.
 
-[startbutton]: /assets/pics/startenginestop.jpg "The pointy bits of the 'A' and 'N' have rubbed off."
+[startbutton]: {% link assets/pics/startenginestop.jpg %} "The pointy bits of the 'A' and 'N' have rubbed off."

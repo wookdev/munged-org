@@ -2,13 +2,9 @@
 layout: post
 author: Wook
 title: All in on Cloudflare
-tags:
-- website
-- meta
-- Cloudflare
 date: 2021-10-06 00:00:00 -0400
-
 ---
+
 Okay, Cloudflare has won me over.  It has been a slow process, but today I decided to move as much of my online presence to Cloudflare as I can.
 
 Why?

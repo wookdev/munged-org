@@ -3,10 +3,6 @@ layout: post
 title: Left Facebook
 author: Wook
 date: 2017-11-10
-tags: 
- - Social Media
- - Facebook
- - Privacy
 ---
 
 I once read that deleting your FB profile was the adult way of running away from home.

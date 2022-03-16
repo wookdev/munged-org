@@ -2,12 +2,9 @@
 layout: post
 author: Wook
 title: Rah Rah Rah!!!
-tags:
-- health
-- COVID
 date: 2021-11-05 12:00:00 -0400
-
 ---
+
 Got a COVID booster shot today.  My doctor was so worried that I get one that she gave me a prescription for a Moderna shot.  Sadly, I didn't get around to using it before everyone was just generally eligible.  That I had a prescription still makes me smile.
 
 "Are you eligible for a booster?"

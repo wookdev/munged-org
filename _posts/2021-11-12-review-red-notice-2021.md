@@ -2,12 +2,9 @@
 layout: post
 author: Wook
 title: 'Review: Red Notice (2021)'
-tags:
-- review
-- Red Notice
 date: 2021-11-12 22:00:00 -0500
-
 ---
+
 Not a good movie.
 
 I wanted to like it.  Who doesn't like Ryan Renolds, Dwayne Johnson, and Gal Gadot?  But I couldn't.

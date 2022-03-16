@@ -1,25 +1,9 @@
 ---
 layout: post
 title: Apple Event on Sept 2014
-permalink: /ymmv/2014/9/10/apple-event-sept-2014
-postname: 2014/9/10/apple-event-sept-2014
-postid: 17
-pubDate: Wed, 10 Sep 2014 05:18:57 +0000
-postdate: 2014-09-10 05:18:57
-postdategmt: 2014-09-10 05:18:57
-tags:
-  - iPhone 6
-  - iPhone 6 Plus
-  - iPad
-  - Apple Pay
-  - Apple Watch
-  - Apple Event 2014
-  - AppleLive
-  - Apple Event
-creator: squarespace@munged.org
 ---
 
-[So.][event]
+So.
 
 No new iPad. I'm bummed. I need to replace mine so I have one that works
 with my Phantom.
@@ -75,5 +59,4 @@ where something similar already exists, like Taiwan and Japan? My guess is the
 iPhone will just support the existing systems, but who knows, there might be room for
 improving the user experience of them.
 
-[event]: http://www.apple.com/live/2014-sept-event/
 [airdrop]: https://support.apple.com/en-us/HT204144 "Apple AirDrop"

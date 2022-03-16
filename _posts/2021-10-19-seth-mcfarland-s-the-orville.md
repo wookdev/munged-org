@@ -2,13 +2,9 @@
 layout: post
 author: Wook
 title: Seth McFarland's "The Orville"
-tags:
-- tv
-- science fiction
-- The Orville
 date: 2021-10-19 13:00:00 -0400
-
 ---
+
 I've talked about Seth McFarlane's "The Orville" before.  On Twitter maybe.  Or Facebook for that brief time I was back on it.  I thought I posted about it here, but can't find it if I did.
 
 I watched the first two seasons of it... on some streaming service.

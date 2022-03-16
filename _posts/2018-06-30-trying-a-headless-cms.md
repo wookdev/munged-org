@@ -4,7 +4,10 @@ layout: post
 title: Trying a "Headless CMS"
 date: 2018-06-30 11:53:31 -0400
 ---
-A while back, [I switched the blog to using Github Pages](2015/04/22/github-pages/).  I worked a bit to make the site look more like I wanted.  That was easy, because my desires were simple: white background, black-ish text, a nice font, the site's menus, readable width column.
+A while back, [I switched the blog to using Github Pages]({% post_url 2015-04-22-github-pages %}).
+I worked a bit to make the site look more like I wanted.  That was easy, because my
+desires were simple: white background, black-ish text, a nice font, the site's menus,
+readable width column.
 
 What wasn't so easy was posting to the site.  It involved the following steps:
 

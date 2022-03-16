@@ -1,6 +1,5 @@
 ---
 layout: post
-author: Wook
 title: "All Systems Upgraded: OS X 10.10.3, and iOS 8.3"
 ---
 Big upgrade today for the Apple devices around Wook Central.

@@ -2,13 +2,9 @@
 layout: post
 author: Wook
 title: 'Review: The Matrix Resurrections '
-tags:
-- review
-- The Matrix
-- Wachowskis
 date: 2022-01-04 14:00:00 -0500
-
 ---
+
 Liked it, but didn't love it.  I found it to be okay.
 
 I can see where people might dislike or even hate it.  It's a weird picture like that, I think.  I found I had the patience for it, but not everyone will.

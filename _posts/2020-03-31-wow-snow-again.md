@@ -2,10 +2,7 @@
 layout: post
 author: Wook
 title: Wow, Snow Again
-tags:
-- heard it
 date: 2020-03-31 00:00:00 -0400
-
 ---
 Seen on internal work Slack channel today:
 

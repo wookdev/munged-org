@@ -1,19 +1,6 @@
 ---
 layout: post
-permalink: /ymmv/2014/10/7/ads
-postname: 2014/10/7/ads
-posttype: post
-postid: 11
-status: publish
-pubDate: Fri, 31 Oct 2014 05:34:17 +0000
-postdate: 2014-10-31 05:34:17
-postdategmt: 2014-10-31 05:34:17
-tags:
-  - ads
-  - ad blockers
-  - targetted ads
-  - Bobcat Goldthwait
-creator: squarespace@munged.org</dc:creator>
+title: Targeted Ads
 ---
 
 Check out this piece: [Why Do Contextual Ads Fail?][]
@@ -32,7 +19,7 @@ dating site. I didn't at the time. Those ads went away instantly when I
 removed my relationship status.
 
 The best story I heard about targeted ads was when Bobcat Goldthwait said on
-[NPR][]'s, ["Wait Wait, Don't Tell Me][]":
+NPR's, "[Wait Wait, Don't Tell Me][]":
 
 > I was writing a script that had a lot of guns in it and I spent a lot of
 > time looking at guns online. And eventually, I'm not kidding, ads for Arkansas
@@ -57,5 +44,4 @@ because my info is anonymous, doesn't mean the social network could exist
 without that info. Which still makes us the product.
 
 [Why Do Contextual Ads Fail?]:  http://www.computerworld.com/article/2690822/security0/why-do-contextual-ads-fail.html
-[NPR]: http://www.npr.org/
 [Wait Wait, Don't Tell Me]: http://www.npr.org/programs/wait-wait-dont-tell-me/

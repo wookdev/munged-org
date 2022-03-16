@@ -1,14 +1,13 @@
 ---
 layout: post
 title: (Sorta) First Post!
-tags: First Tech Pages.GitHub Meta Site
 ---
 
 I keep doing this...
 
-Yeah, so not so much a litteral "first post", first post.  More of a first post that didn't get copied
+Yeah, so not so much a literal "first post", first post.  More of a first post that didn't get copied
 from some prior
-version of some prior blog. The kind of "first post" you get when you've set up a new account at a new webhost,
+version of some prior blog. The kind of "first post" you get when you've set up a new account at a new web host,
 and have to type something into it as a test.
 
 This site is hosted via [GitHub's Pages](https://pages.github.com/ "GitHub Pages"). The docs that make

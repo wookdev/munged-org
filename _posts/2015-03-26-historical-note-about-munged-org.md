@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Historical Note about Munged.Org
-author: Wook
-datestr: Thursday, March 26th, 2015
 ---
 
 My blogging activities started shortly after the terrorist attacks of September 11th,
