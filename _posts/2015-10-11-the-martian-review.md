@@ -1,12 +1,6 @@
 ---
 layout: post
 title: The Martian Review (Spoilers!!!)
-author: Wook
-tags:
- - Books
- - Movies
- - Reviews
- - Spoilers
 ---
 
 Just got back from seeing [The Martian][], the movie mentioned
@@ -22,11 +16,11 @@ I am.
 I liked it.  I didn't love it.
 
 I went into it knowing that it would not be the book, but I was made
-a little optimistic by the fact that almost everthing in the trailers I saw I remembered
+a little optimistic by the fact that almost everything in the trailers I saw I remembered
 as being in the book.  It mostly delivered, tho parts were confusing.
 
 One of the things that is really good about the book is the technical accuracy, while
-managing to be a gripping story with drama and suspence.  The movie couldn't have all
+managing to be a gripping story with drama and suspense.  The movie couldn't have all
 that in it, but it went into some of the technical stuff and then did it so badly that
 it removed me from the moment.
 
@@ -140,7 +134,7 @@ and made the son of a hindu and a presbyterian (or was it protestant) in the mov
 In this day and age, when we are trying to
 foster acceptance of multiculturalism, this change smacked of giving in to assholes
 and bigots.  I was not amused, and don't care that the movie makers don't want to be
-controversial.
+controversial.[^1]
 
 ## Technical Stuff Even The Book Got Wrong
 
@@ -170,6 +164,10 @@ At JPL, they would have totally used the mock-up of the Pathfinder to figure out
 to use the camera to communicate.  It was never mentioned in the book.  Tho maybe, it
 was cut for word count.
 
+[^1]: 2022 Update: Turns out, Irrfan Khan, a legendary Indian actor was supposed to be Venkat.
+      He had to drop out at the very last moment due to a prior commitment, leaving
+      the producers in the lurch.  They were looking for anyone, male, female, white,
+      black.... anyone to fill the part.  Thus we got Vincent Kapor.
 
 [Schiaparelli Crater]: https://en.wikipedia.org/wiki/Schiaparelli_%28Martian_crater%29
 [The Martian]:     http://www.imdb.com/title/tt3659388/

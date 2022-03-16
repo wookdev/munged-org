@@ -1,14 +1,6 @@
 ---
 layout: post
 title: Self-Driving Cars
-permalink: /ymmv/2014/6/26/self-driving-cars
-postname: 2014/6/26/self-driving-cars
-postid: 18
-pubDate: Wed, 10 Sep 2014 03:53:11 +0000
-postdate: 2014-09-10 03:53:11
-postdategmt: 2014-09-10 03:53:11
-tags: self-driving-cars robot-cars
-creator: squarespace@munged.org
 ---
 
 Everyone knows that [Google][] and others are working on [cars that drive themselves][]

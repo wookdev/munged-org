@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Apple News Disappoints
-author: Wook
-tags:
- - Apple
- - Apps
- - Reviews
- - iOS
+
 ---
+
 I upgraded the iPhone and iPad to iOS 9 a couple of days after it was available.
 I upgraded to 9.0.1 a week later, and 9.0.2 a week after that.  I was looking forward
 to Apple News as a news aggregator, a place to find news all in one place and have
@@ -19,8 +15,8 @@ unreasonable optimism.
 Favorites come in 3 flavors:
 
 1. News Topics, which I presume are curated topic lists
-1. Publications, like the NYTimes, WaPo, Ars, Quartz, etc
-1. Favorited articles
+2. Publications, like the NYTimes, WaPo, Ars, Quartz, etc
+3. Favorited articles
 
 When first used Apple News asks you to pick some favorites from the first two
 categories.  Then it never shows you anything else.

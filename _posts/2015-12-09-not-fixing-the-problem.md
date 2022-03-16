@@ -1,15 +1,8 @@
 ---
 layout: post
 title: Not Fixing The Problem But Still Paying Less
-author: Wook
-tags:
- - MacOS Networking
- - Mac OS 10.11
- - Internet
- - Cable Modems
- - Routers
- - Home Networking
 ---
+
 The problem I have with network packet loss and resets didn't in fact get fixed by
 the TWC internet speed reduction I [talked about previously][].  However, the real
 opportunity of way faster speeds from our ISPs, is being able to drop down from the
@@ -33,9 +26,11 @@ problem.
 I've done all that, and while it might have made things better, it didn't fix them.  At
 least not completely:
 
+```shell
 --- 166.84.1.1 ping statistics ---
 2025 packets transmitted, 2015 packets received, 0.5% packet loss
 round-trip min/avg/max/stddev = 31.179/44.917/66.868/2.885 ms
+```
 
 A half-percent packet loss isn't bad, but until El Capitan, my packet loss was zero.
 

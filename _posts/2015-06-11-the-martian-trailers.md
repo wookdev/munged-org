@@ -1,14 +1,10 @@
 ---
 layout: post
 title: The Martian
-author: Wook
-tags:
- - Books
- - Movies
- - Reviews
 ---
+
 "[The Martian][]", a book by [Andy Weir][] about an astronaut, Mark Watney, stranded on
-the planet mars when his crewmates leave him for dead in an abort due to a savage sandstorm.
+the planet Mars when his crewmates leave him for dead in an abort due to a savage sandstorm.
 
 I enjoyed this novel a lot.  Weir makes Watney an entertaining character.  He's a
 potty-mouthed, 
@@ -49,7 +45,7 @@ and the rest.
 - Real Chicagoans do not to to Geno's for pizza.  It's a tourist trap.
 
 - Chiwetel Ejiofor, a Brit of Nigerian decent, was cast as Venkat Kapoor, an Indian.
-In my mind, while reading, Venkat sounded to me like a US native of Indian decent.  We
+In my mind, while reading, Venkat sounded to me like a US native of Indian descent.  We
 never really get this verified, tho at one point Venkat does say he's Hindu.  Still,
 this casting choice seems odd to me.
 

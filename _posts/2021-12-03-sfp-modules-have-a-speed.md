@@ -2,12 +2,9 @@
 layout: post
 author: Wook
 title: SFP+ modules have A Speed
-tags:
-- network
-- over thinking it
 date: 2021-12-03T00:00:00.000-05:00
-
 ---
+
 Question answered.  No, I don't expect many to understand this.
 I don't care.  You can look it up if you want, but it won't be
 interesting, unless you are a networking wonk.  If you are a

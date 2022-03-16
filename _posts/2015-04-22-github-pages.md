@@ -1,8 +1,8 @@
 ---
 title: Munged.Org Now On GitHub Pages
 layout: post
-author: Wook
 ---
+
 The Squarespace account expired yesterday.  So I've updated DNS and re-pointed
 www.munged.org to this version of the site.  The change should only be noticeable
 if you happened to be reading it when it changed.  Or remember what the site looked

@@ -1,19 +1,6 @@
 ---
 layout: post
 title: DemiCon 25 Photos
-permalink: /ymmv/2014/5/8/demicon-25-photos
-postname: 2014/5/8/demicon-25-photos
-postid: 21
-pubDate: Thu, 08 May 2014 16:40:06 +0000
-postdate: 2014-05-08 16:40:06
-postdategmt: 2014-05-08 16:40:06
-tags:
-  - DemiCon
-  - DemiCon 25
-  - Convention
-  - SF&F
-  - Photos
-creator: squarespace@munged.org
 ---
 
 I carried my camera around for a couple of hours at DemiCon. I wasn't very
@@ -46,13 +33,13 @@ I didn't adjust white balance, but I did crop a few quickly.
 
 ![ZK8P0142][]
 
-[ZK8P0002]: /assets/pics/ZK8P0002.jpg "Kriss bartending."
-[ZK8P0003]: /assets/pics/ZK8P0003.jpg "Ange"
-[ZK8P0004]: /assets/pics/ZK8P0004.jpg "Ange closeup"
-[ZK8P0005]: /assets/pics/ZK8P0005.jpg "Megs"
-[ZK8P0010]: /assets/pics/ZK8P0010.jpg "Joe"
-[ZK8P0109]: /assets/pics/ZK8P0109.jpg "Rachelle"
-[ZK8P0130]: /assets/pics/ZK8P0130.jpg "Masque judges judging"
-[ZK8P0131]: /assets/pics/ZK8P0131.jpg "Greg"
-[ZK8P0132]: /assets/pics/ZK8P0132.jpg "Heather"
-[ZK8P0142]: /assets/pics/ZK8P0142.jpg "Les"
+[ZK8P0002]: {% link assets/pics/ZK8P0002.jpg %} "Kriss bartending."
+[ZK8P0003]: {% link assets/pics/ZK8P0003.jpg %} "Ange"
+[ZK8P0004]: {% link assets/pics/ZK8P0004.jpg %} "Ange closeup"
+[ZK8P0005]: {% link assets/pics/ZK8P0005.jpg %} "Megs"
+[ZK8P0010]: {% link assets/pics/ZK8P0010.jpg %} "Joe"
+[ZK8P0109]: {% link assets/pics/ZK8P0109.jpg %} "Rachelle"
+[ZK8P0130]: {% link assets/pics/ZK8P0130.jpg %} "Masque judges judging"
+[ZK8P0131]: {% link assets/pics/ZK8P0131.jpg %} "Greg"
+[ZK8P0132]: {% link assets/pics/ZK8P0132.jpg %} "Heather"
+[ZK8P0142]: {% link assets/pics/ZK8P0142.jpg %} "Les"

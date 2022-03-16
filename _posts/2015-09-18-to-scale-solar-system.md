@@ -1,12 +1,6 @@
 ---
 layout: post
 title: To Scale - The Solar System
-author: Wook
-tags:
- - YouTube
- - Astronomy
- - Science
- - Saving For Later
 ---
 I'll just leave these right here:
 

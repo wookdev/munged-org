@@ -3,9 +3,6 @@ layout: post
 title: Fifteen Years Later
 author: Wook
 date: 2016-09-11
-tags: 
- - September 11th
- - Memorials
 ---
 I hope everyone takes a moment today to remember that something horrible happened
 15 years ago.  People died in two cities and a remote farm field.

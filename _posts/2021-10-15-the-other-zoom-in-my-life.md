@@ -2,12 +2,9 @@
 layout: post
 author: Wook
 title: The Other Zoom in My Life
-tags:
-- car
-- Audi
 date: 2021-10-29 12:00:00 -0400
-
 ---
+
 The car went into the shop.  Just got it back.
 
 Audis want periodic maintenance every 10,000 miles starting at 5,000.  It had its 145,000 mile checkup early last year.  It's only at 148,000 now, but it's been a year, and it was bugging me with messages on the dash about it.  At the very least, it needed an oil change.
@@ -25,8 +22,6 @@ I dropped the car off on Wednesay morning.  They called me that afternoon to get
 The dude called me at 5:56 Thursday to tell me my car was done.  The service department closed just 4 minutes later.  I picked it up on Friday afternoon.
 
 They forgot to replace the batteries in the key fobs, so I'll have to do that myself.
-
-***
 
 [^1]: When you come to a complete, full-squeal, stop and the joggers all turn to look at you, you kinda feel like you're driving some clapped-out jalopy.
 

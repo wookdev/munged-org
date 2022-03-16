@@ -2,10 +2,6 @@
 layout: post
 author: Wook
 title: 'Review: Jungle Cruise (2021)'
-tags:
-- review
-- Jungle Cruise
-- movies
 date: 2021-11-23 23:30:00 -0500
 ---
 

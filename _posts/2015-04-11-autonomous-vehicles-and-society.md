@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Authonomous Vehicles and Society
-author: Wook
 ---
+
 [This article][robohub article] on RoboHub starts making an interesting point, and then
 completely misses the
 bigger picture.  Yes, there is more to Autonomous cars than just the technology

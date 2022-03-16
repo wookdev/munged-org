@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Fixing The Problem By Paying Less
-author: Wook
-tags:
- - TWC
- - Cable
- - Internet
- - Cable Modems
 ---
 
 [Google Fiber][] is [coming to the Triangle][]. The pattern here, once Google has
@@ -39,7 +33,7 @@ I protested that Motorola said
 otherwise, the TWC person said that TWC network engineers actually test them,
 and the SB6141 is good
 for only 100Mbps. There are other Surfboards that are capable of the 300Mbps I'm
-signed up for.  They pointed me to the [supported modems list][].
+signed up for.  They pointed me to the supported modems list.
 
 I thanked her for her help, and hung up.
 
@@ -60,4 +54,3 @@ browser problem.  But that's another post...
 [elsewhere]: http://consumerist.com/2014/08/04/time-warner-and-comcast-just-happen-to-boost-customer-speeds-near-google-fiber/
 [bump the speeds up as much as possible]: http://www.engadget.com/2015/04/13/twc-boosts-its-internet-speeds-to-counter-google-fiber/
 [cut it's price significantly]: https://www.theverge.com/2015/2/17/8050935/att-google-fiber-kansas-city-gigapower-internet-price-match
-[supported modems list]: http://www.timewarnercable.com/en/support/internet/topics/buy-your-modem.html

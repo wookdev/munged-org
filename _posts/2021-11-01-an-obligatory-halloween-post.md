@@ -2,14 +2,9 @@
 layout: post
 author: Wook
 title: An Obligatory Halloween Post
-tags:
-- YouTube
-- Broken Peach
-- music
-- music video
 date: 2021-11-01 10:40:00 -0400
-
 ---
+
 A day late for actual Halloween, but whatever.
 
 This popped up in my YouTube recommended list today, and I find it a little bit mesmerizing.  Probably because of the stark, bold, colors, and the singers really sell the act.

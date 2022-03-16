@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Using awk To Add Lines To Files
-author: Wook
-tags:
-  - awk
 ---
 
 I had to stop and figure [awk][] out again.  I used to be almost ok with awk, but it's

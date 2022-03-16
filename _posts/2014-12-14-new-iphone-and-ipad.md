@@ -1,15 +1,6 @@
 ---
 layout: post
 title: New iPhone and iPad
-permalink: /ymmv/2014/12/14/new-iphone-and-ipad
-postname: 2014/12/14/new-iphone-and-ipad
-posttype: post
-postid: 6
-status: publish
-pubDate: Mon, 15 Dec 2014 03:45:45 +0000
-postdate: 2014-12-15 03:45:45
-postdategmt: 2014-12-15 03:45:45
-creator: squarespace@munged.org
 ---
 
 The plan is to get upgraded to current iPhone, and iPad. I have a new iPhone 6,

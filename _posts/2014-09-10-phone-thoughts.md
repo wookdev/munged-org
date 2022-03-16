@@ -1,18 +1,6 @@
 ---
 layout: post
 title: Phone Thoughts
-permalink: /ymmv/2014/9/10/phone-thoughts
-postname: 2014/9/10/phone-thoughts
-postid: 16
-pubDate: Wed, 10 Sep 2014 05:33:25 +0000
-tags:
-  - new phone
-  - iPhone 6 Plus
-  - iPhone 6
-  - Sprint
-  - AT&T
-  - Verizon
-creator: squarespace@munged.org
 ---
 
 My iPhone 4S is still going strong, tho it could probably use a new battery. I'll

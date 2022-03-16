@@ -2,13 +2,9 @@
 layout: post
 author: Wook
 title: A Good Summary of Desktop Linux
-tags:
-- quote
-- linux
-- Ubuntu
 date: 2021-12-01 12:00:00 -0500
-
 ---
+
 > Ubuntu 10.04 came out yesterday. It’s probably the best desktop
 > Linux distro out there, which is about as prestigious as being the
 > best Yugoslavian car company.

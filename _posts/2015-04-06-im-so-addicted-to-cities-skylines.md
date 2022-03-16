@@ -1,6 +1,5 @@
 ---
 layout: post
-author: Wook
 title: "I'm sooooooooooo addicted to Cities: Skylines"
 ---
 

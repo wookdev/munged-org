@@ -1,20 +1,8 @@
 ---
 layout: post
 title: Sarah Lacy Interviews Al Gore
-permalink: /ymmv/2014/6/14/sarah-lacy-interviews-al-gore
-postname: 2014/6/14/sarah-lacy-interviews-al-gore
-postid: 19
-pubDate: Sat, 14 Jun 2014 05:27:36 +0000
-postdate: 2014-06-14 05:27:36
-postdategmt: 2014-06-14 05:27:36
-tags:
-  - Video
-  - Interview
-  - Sarah Lacy
-  - Al Gore
-  - Information Superhighway
-creator: squarespace@munged.org</dc:creator>
 ---
+
 My opinion of [Al Gore][] has flip-flopped back and forth over the years. I mostly
 blame the media for this. Journalists for some reason are never kind to vice
 presidents, and so I pick that opinion up for myself. In years since, he is portrayed

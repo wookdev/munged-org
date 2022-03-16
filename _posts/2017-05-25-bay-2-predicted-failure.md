@@ -3,8 +3,6 @@ layout: post
 title: Bay 2 Predicted Failure
 author: Wook
 date: 2017-05-25
-tags: 
- - Computers
 ---
 
 As [reported previously][], there was some excitement two weeks ago when a disk
@@ -68,6 +66,6 @@ I spent a solid two minutes looking at that thinking "No shit, you couldn't
 come up with this **two weeks ago**?  What the hell!"
 
 
-[reported previously]: {{ site.baseurl }}{% post_url 2017-05-10-RS1-degraded %}
+[reported previously]: {% post_url 2017-05-10-RS1-degraded %}
 [Ansible]: https://docs.ansible.com/ansible/
 [Time Machine]: https://en.wikipedia.org/wiki/Time_Machine_(macOS)

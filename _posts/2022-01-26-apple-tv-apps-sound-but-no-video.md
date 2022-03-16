@@ -2,12 +2,9 @@
 layout: post
 author: Wook
 title: Apple TV Apps Sound but no Video
-tags:
-- Apple TV
-- troubleshooting
 date: 2022-01-03 12:00:00 -0500
-
 ---
+
 For Christmas my sweetie got me a year of the [Criterion Channel](https://www.criterionchannel.com) app.  It's a collection of classic movies, many of them from way way way back.  I installed the app on the Apple TV, and did all the sign up and sign in.
 
 When a movie was played, nothing happened.  It just sat and showed the loading spinner for as long as you wanted to watch it.

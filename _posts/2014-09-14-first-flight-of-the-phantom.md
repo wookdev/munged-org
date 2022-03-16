@@ -1,17 +1,8 @@
 ---
 layout: post
 title: (First) Flight Of The Phantom
-permalink: /ymmv/2014/9/14/first-flight-of-the-phantom
-excerpt: "In a long string of firsts, I fly my Phantom 2 Vision+ and make a movie of it."
-postname: 2014/9/14/first-flight-of-the-phantom
-postid: 13
-pubDate: Sun, 14 Sep 2014 18:36:56 +0000
-tags:
-  - aerial video
-  - Phantom 2 Vision+
-  - Carrboro
-creator: squarespace@munged.org</dc:creator>
 ---
+
 Two months ago I bought a drone. More accurately, an Umannned Aerial Vehicle
 (UAV). In this case, it is a [DJI Phantom 2 Video+][] [quadcopter][].
 This thing is about the size of a dinner plate without the propellers, it has

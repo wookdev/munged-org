@@ -2,11 +2,9 @@
 layout: post
 author: Wook
 title: I Told My Boss To Call Me
-tags:
-- heard it
 date: 2022-01-05 12:48:00 -0500
-
 ---
+
 "Joe's Bar and Grill.  If you're his wife he ain't here."
 
 "Hi!  I need tables for 6, at about 9 tonight for dinner and drinks."
