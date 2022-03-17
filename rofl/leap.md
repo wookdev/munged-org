@@ -16,7 +16,7 @@ it is that we lose our culture on the internet.
 
 ---
 
-![To Leap or Not to Leap?](/assets/pix/y2kleapOrNot.gif) 
+![To Leap or Not to Leap?]({% link assets/pics/y2kleapOrNot.gif %})
 
 This was never a question for OpenVMS!
 
