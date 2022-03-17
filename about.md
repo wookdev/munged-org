@@ -21,6 +21,5 @@ brain and the results show up here.
 
 # Must Read:
 
-If you don't think you should [read this](diss.md), you are part of the problem.
-
-[diss]: {% link diss.md %} Disclaimer
+If you don't think you should [read this]({% link diss.md %}), you are part
+of the problem.  Read it.  Know it.  Leave me alone.
