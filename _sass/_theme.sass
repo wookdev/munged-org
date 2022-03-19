@@ -1,0 +1,45 @@
+/*
+ * Solarized theme uses this:
+ */
+$sol-is-dark: true
+$site-theme: black-as-hell
+
+@import "solarized"
+
+\:root
+    @if $site-theme == sol-is-dark
+        --base-color-bg:                #{$sol-base03}
+        --base-color-bg-highlight:      #{$sol-base02}
+        --base-color-text-body:         #{$sol-base0}
+        --base-color-text-highlight:    #{$sol-base1}
+        --base-color-text-accent:       #{$sol-yellow}
+
+        --alt-color-bg:                 #{$sol-base3}
+        --alt-color-bg-highlight:       #{$sol-base2}
+        --alt-color-text-body:          #{$sol-base00}
+        --alt-color-text-highlight:     #{$sol-base01}
+        --alt-color-text-accent:        #{$sol-blue}
+    @else if $site-theme == sol-is-light
+        --base-color-bg:                #{$sol-base3}
+        --base-color-bg-highlight:      #{$sol-base2}
+        --base-color-text-body:         #{$sol-base00}
+        --base-color-text-highlight:    #{$sol-base01}
+        --base-color-text-accent:       #{$sol-blue}
+
+        --alt-color-bg:                 #{$sol-base03}
+        --alt-color-bg-highlight:       #{$sol-base02}
+        --alt-color-text-body:          #{$sol-base0}
+        --alt-color-text-highlight:     #{$sol-base1}
+        --alt-color-text-accent:        #{$sol-yellow}
+    @else if $site-theme == black-as-hell
+        --base-color-bg:                #000000
+        --base-color-bg-highlight:      #101010
+        --base-color-text-body:         #ffffff
+        --base-color-text-highlight:    #fcce23
+        --base-color-text-accent:       #e39209
+
+        --alt-color-bg:                 #000000
+        --alt-color-bg-highlight:       #101010
+        --alt-color-text-body:          #ffffff
+        --alt-color-text-highlight:     #fcce23
+        --alt-color-text-accent:        #e39209
