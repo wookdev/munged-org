@@ -10,7 +10,7 @@ on the net. Some of it is badly dated, but possibly interesting to read anyway. 
 really old stuff also has a habit of
 showing up again in new forms, so consider this a way of documenting What Has Gone Before.
 
-Enjoy:
+# Enjoy:
 
 <table class="rofl-table">
   <tr>
@@ -209,7 +209,7 @@ Enjoy:
     <td>Another Alice... Another Wonderland...</td>
   </tr>
   <tr> 
-    <td class="align-right"><a href="{% link rofl/alice-pdp-10.md %}">Alice's PDP-10</a></td>
+    <td class="align-right"><a href="{% link rofl/alice-pdp-10.md %}">Alice's PDP&#8209;10</a></td>
     <td>That's why I called this song "Alice's PDP-10".</td>
   </tr>
   <tr> 
@@ -229,7 +229,7 @@ Enjoy:
     <td>The difference between men and women.</td>
   </tr>
   <tr> 
-    <td class="align-right"><a href="{% link rofl/rune-sore-bees.md %}">Rune-sore-bees</a></td>
+    <td class="align-right"><a href="{% link rofl/rune-sore-bees.md %}">Rune&#8209;sore&#8209;bees</a></td>
     <td>Room service. For those who travel.</td>
   </tr>
   <tr> 
@@ -400,7 +400,7 @@ Enjoy:
   </tr>
 </table>
 
-## Stories
+# Stories
 
 The main thing about these are that they are true, actually happened, or are otherwise verifiable.
 
@@ -424,7 +424,7 @@ The main thing about these are that they are true, actually happened, or are oth
   </tr>
 </table>
 
-## Jokes
+# Jokes
 
 I post very few actual jokes. Mostly this is because there are so many other internet joke archives. The best is
 the <a href="http://www.netfunny.com/rhf/">"Rec.Humor.Funny"</a>
@@ -469,7 +469,7 @@ archive. However, some amuse me so much that I want to keep them around.
   </tr>
 </table>
 
-## Christmas Fun
+# Christmas Fun
 
 Assorted "12 Days" and "Twas' the Night Before..." take offs. There are enough of these to make a whole section.
 
@@ -554,11 +554,11 @@ Assorted "12 Days" and "Twas' the Night Before..." take offs. There are enough o
   </tr>
 </table>
 
-## Other Stuff...
+# Other Stuff...
 
 Other pages of funny/entertaining stuff. Maybe only funny/entertaining to me.
 
-<table>
+<table class="rofl-table">
   <tr>
     <td class="align-right"><a href="{% link rofl/eq-quotes.md %}">EQ Quotes</a></td>
     <td> Things said in EverQuest</td>

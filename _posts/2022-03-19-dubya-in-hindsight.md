@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Dubya in Hindsight
+date: 2022-03-19 02:33 -0400
 ---
-
 While going over the site I'm re-reading things I wrote long ago.
 [This one]({% post_url 2003-03-26-137 %}) caught my eye.
 
