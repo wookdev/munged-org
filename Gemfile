@@ -8,9 +8,7 @@ gem "jekyll", "~> 4.2.1"
 gem "jekyll-redirect-from"
 gem "jekyll-archives"
 gem 'jekyll-gist'
-gem 'jekyll-commonmark'
 
 # Not Official Jekyll Plugins
 gem 'jekyll-paginate-v2'
-# gem 'jekyll-target-blank'
 gem 'jekyll-compose'

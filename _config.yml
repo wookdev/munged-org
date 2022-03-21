@@ -16,9 +16,7 @@ author: wook
 # SEO tags stuff
 title: Munged.Org
 tagline: Where Wookie waxes loquatious, because he can.
-description: >-
-  Web site for Wookie, which is mostly a blog
-  and assorted pages.
+description: Web site for Wookie, which is mostly a blog and assorted pages.
 
 # Paginate:
 pagination:
@@ -54,14 +52,10 @@ permalink: pretty
 # Formatting
 date_format: "%b %-d, %Y"
 
-# Just so this is available:
+# On the off chance I ever switch to using
+# excerpts, make the separator harder to avoid
+# accidentally using it:
 excerpt_separator: <!--more-->
-
-# Try out commonmark
-markdown: CommonMark
-commonmark:
-  options: [ "SMART", "FOOTNOTES", "UNSAFE" ]
-  extensions: [ "strikethrough", "table" ]
 
 # Some defaults
 defaults:
@@ -86,11 +80,9 @@ defaults:
 # Jekyll plugins
 plugins:
   - jekyll-archives
-  - jekyll-commonmark
   - jekyll-gist
   - jekyll-paginate-v2
   - jekyll-redirect-from
-#  - jekyll-target-blank
   - jekyll-compose
 
 # Do not track these directories
