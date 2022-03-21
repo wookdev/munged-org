@@ -14,7 +14,7 @@ Yes, as spring progresses into summer it'll get dark later and later, but a grad
 change is easier to make.
 
 It was better when DST changed later in the year, the last weekend of April.  By
-then dinner time is far enough after sunset that switching to DST it didn't
+then dinner time is far enough after sunset that switching to DST didn't
 screw me up.
 
 I think daylight saving time need to be stopped.  But I think it needs to stay
