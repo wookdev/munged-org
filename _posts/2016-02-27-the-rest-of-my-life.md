@@ -66,7 +66,7 @@ for everyone.  I've always been dismissive of people that were hyper-obsessed
 with everything healthy to the point of being almost OCD, as if somehow, you
 could get out of life alive.  But I decided I wanted to fit in a narrow casket.
 
-I made a [Facebook post][] to my friends on January 1st, 2016:
+I made a Facebook post to my friends on January 1st, 2016:
 
 > Okay. Time to look forward now. A new year, a new plan, a new goal. My goal
 > is 150 pounds gone. This is not a resolution, because this isn't for 2016.
@@ -95,4 +95,3 @@ what I want, tho I try to stay towards things that are simple.
 
 
 [3 scoops of ice cream]: http://www.brooklynicecreamfactory.com/ "OMG SO GOOD!!!!"
-[Facebook post]: https://www.facebook.com/wookman/posts/10207878876560617 "Only visible to my FB friends."
