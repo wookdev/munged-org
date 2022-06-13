@@ -5,8 +5,7 @@ title: The Devil and David Webster
  
 by Chris R. Lunt.
 
-Heaven's donuts are jelly donuts. The blend of texture, from 
-the
+Heaven's donuts are jelly donuts. The blend of texture, from the
 cool, sweet ooze of the jelly, mined with tiny raspberry seeds, to the
 firm, spongy cake, so lightly encrusted in a thin glaze of sugar, that
 cracks and flakes as you gingerly tear off small pieces of delight, is

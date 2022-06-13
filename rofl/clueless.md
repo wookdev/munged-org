@@ -5,7 +5,7 @@ title: Rules of Thumb for the Clueless
 
 From someone who learned them the hard way.  (Well, maybe.)
 
-1. Hairdressers:
+## Hairdressers:
 
 Always assume that your barbers and hairdressers are from another 
 galaxy where "Just give me a trim" is actually Moronian for "What 
@@ -14,14 +14,14 @@ a halfway decent haircut, bring it in and point at it mutely. They'll understand
 Just make sure there aren't any pets in the picture with you, or they might 
 get confused; God only knows what you'll wind up looking like then.
 
-1. Dealing with Roommates:
+## Dealing with Roommates:
 
 Undesirable roommates can be disposed of by surreptitiously stapling 
 or gluing bills of large denominations to the backs of their jackets. This works 
 best if you live in one of the seedier parts of town. It costs much less than 
 a hit man, and it's perfectly legal. I think.
 
-1. Selecting a Place to Live:
+## Selecting a Place to Live:
 
 Big basements are key. People you barely know will ask you to
 store all sorts of stuff for them. *Lots* of stuff. Just tell them,
@@ -33,7 +33,7 @@ any longer. Especially if you mention that you are a member of the
 aforementioned organization. Make sure that you foam at the mouth
 when you say this. Be rabid, *with conviction*.
 
-1. Bathroom Etiquette/Survivial:
+## Bathroom Etiquette/Survivial:
 
 If you live in an apartment or house and are responsible for
 cleaning the bathroom yourself (translation: the bathroom is cleaned
@@ -51,11 +51,11 @@ your business, flush immediately, **then** wipe yourself up and flush again.
 No sense in having to duck flying pieces of crap while you're plunging
 the toilet.
 
-1. Yard Maintenance:
+## Yard Maintenance:
 
 When birds start perching on the lawn, it's time to mow it.
 
-1. Leftovers:
+## Leftovers:
 
 Make sure to eat leftovers before the predator/prey relationship
 between you and your food reverses itself through a process of
@@ -69,11 +69,11 @@ a couple of times, of course) just before going on a two- or three-
 day trip, the resulting stench will ensure that one of your roommates
 will take out the garbage for you while you're gone.
 
-1. Bedtime Attire:
+## Bedtime Attire:
 
 If you're a sleepwalker, don't go to bed in the buff.
 
-1. "Doing Push-ups":
+## "Doing Push-ups":
 
 In the making of the beast with two backs, avoid the resonant 
 frequency of your living complex, or you'll hear no end of it from your neighbors. 
