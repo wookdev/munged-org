@@ -26,14 +26,14 @@ title: You Know You're Drinking Too Much Coffee When...
 11. The only time you're standing still is during an earthquake.
 
 12. You can take a picture of yourself from ten feet away without 
-using the timer.
+    using the timer.
 
 13. You lick your coffeepot clean.
 
 14. You spend every vacation visiting "Maxwell House."
 
 15. You're the employee of the month at the local coffeehouse 
-and you don't even work there.
+    and you don't even work there.
 
 16. You've worn out your third pair of tennis shoes this week.
 

@@ -14,11 +14,11 @@ crisis by substituting other symbols for the exclamation mark. In C, this can
 be done by using the word NOT instead. To illustrate, we'll have to sacrifice 
 just a few of the brave creatures:
 
-  if (! a)		/* Old */
+    if (! a)		/* Old */
 
 becomes:
 
-  if (NOT a)		/* New */
+    if (NOT a)		/* New */
 
 In fact, since this works so well in C, it can be carried over to English as 
 well. Rather than obscuring the meaning of many sentences, it can help make 
